@@ -1,0 +1,40 @@
+{
+  "clientDetails": {
+    "language": "English",
+    "location": "New York",
+    "timezone": "EST",
+    "typeOfPlan": "Subscription",
+    "numberOfThreeWayCalls": 2,
+    "specializedCoaching": "Women in Leadership"
+  },
+  "companyDocuments": [
+    {
+      "title": "Three way call guide",
+      "url": "https://google.com"
+    },
+    {
+      "title": "Company review sheet",
+      "url": "https://google.com"
+    },
+    {
+      "title": "Women in leadership guide",
+      "url": "https://google.com"
+    }
+  ],
+  "focusAreas" : {
+    "status" : "been started",
+    "result": [ "Coaching",
+        "Developing Employees",
+        "Hiring",
+        "Negotiating",
+        "Setting Goals",
+        "Presenting Effectively"
+      ]
+    },
+    "coachingPlan" : {
+        "status": "not been started",
+        "result": []
+    },
+  "firstSessionCompleted": true,
+  "hasRemeasurement": true
+}

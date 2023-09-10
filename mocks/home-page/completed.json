@@ -1,0 +1,10 @@
+{
+    "completed": [
+        {
+            "title": "Completed profile",
+            "description": "Edit anytime in your profile settings.",
+            "status": "to_do",
+            "taskSlug": "profile"
+        }
+    ]
+}

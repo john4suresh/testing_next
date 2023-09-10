@@ -1,0 +1,219 @@
+{
+    "id": 89,
+    "name": "",
+    "slug": "post-experience-assessment",
+    "instruction": "",
+    "publisher": "None",
+    "sections": [
+        {
+            "id": 79,
+            "header": null,
+            "sub_header": null,
+            "description": null,
+            "order": 1,
+            "show_order": false,
+            "questions": [
+                {
+                    "id": 581,
+                    "question_text": "How satisfied are you with your overall 360 + Coaching experience?",
+                    "question_type": "Slider",
+                    "question_help": "",
+                    "order": 1,
+                    "required": true,
+                    "show_order": true,
+                    "empty_question_text": false,
+                    "has_option": false,
+                    "options": [],
+                    "is_table": false,
+                    "select_col_num": 0,
+                    "table_rows_range": [],
+                    "table_col_num": 0,
+                    "has_row_headers": false,
+                    "table_headers": [],
+                    "min_slider": 1,
+                    "max_slider": 6,
+                    "answers": [
+                        {
+                            "id": 2090,
+                            "answer": "4",
+                            "answer_info": "4"
+                        }
+                    ]
+                },
+                {
+                    "id": 582,
+                    "question_text": "How capable were you with effective coaching practices BEFORE this experience?",
+                    "question_type": "Slider",
+                    "question_help": "",
+                    "order": 2,
+                    "required": true,
+                    "show_order": true,
+                    "empty_question_text": false,
+                    "has_option": false,
+                    "options": [],
+                    "is_table": false,
+                    "select_col_num": 0,
+                    "table_rows_range": [],
+                    "table_col_num": 0,
+                    "has_row_headers": false,
+                    "table_headers": [],
+                    "min_slider": 1,
+                    "max_slider": 6,
+                    "answers": [
+                        {
+                            "id": 2091,
+                            "answer": "5",
+                            "answer_info": "5"
+                        }
+                    ]
+                },
+                {
+                    "id": 583,
+                    "question_text": "How capable are you with effective coaching practices now that you've had this experience?",
+                    "question_type": "Slider",
+                    "question_help": "",
+                    "order": 3,
+                    "required": true,
+                    "show_order": true,
+                    "empty_question_text": false,
+                    "has_option": false,
+                    "options": [],
+                    "is_table": false,
+                    "select_col_num": 0,
+                    "table_rows_range": [],
+                    "table_col_num": 0,
+                    "has_row_headers": false,
+                    "table_headers": [],
+                    "min_slider": 1,
+                    "max_slider": 6,
+                    "answers": [
+                        {
+                            "id": 2092,
+                            "answer": "6",
+                            "answer_info": "6"
+                        }
+                    ]
+                },
+                {
+                    "id": 584,
+                    "question_text": "How relevant was the coaching pre-work in preparing you for this coaching experience?",
+                    "question_type": "Slider",
+                    "question_help": "",
+                    "order": 4,
+                    "required": true,
+                    "show_order": true,
+                    "empty_question_text": false,
+                    "has_option": false,
+                    "options": [],
+                    "is_table": false,
+                    "select_col_num": 0,
+                    "table_rows_range": [],
+                    "table_col_num": 0,
+                    "has_row_headers": false,
+                    "table_headers": [],
+                    "min_slider": 1,
+                    "max_slider": 6,
+                    "answers": [
+                        {
+                            "id": 2093,
+                            "answer": "7",
+                            "answer_info": "7"
+                        }
+                    ]
+                },
+                {
+                    "id": 585,
+                    "question_text": "How relevant was the learning content in this experience with helping you achieve your development goals?",
+                    "question_type": "Slider",
+                    "question_help": "",
+                    "order": 5,
+                    "required": true,
+                    "show_order": true,
+                    "empty_question_text": false,
+                    "has_option": false,
+                    "options": [],
+                    "is_table": false,
+                    "select_col_num": 0,
+                    "table_rows_range": [],
+                    "table_col_num": 0,
+                    "has_row_headers": false,
+                    "table_headers": [],
+                    "min_slider": 1,
+                    "max_slider": 6,
+                    "answers": [
+                        {
+                            "id": 2094,
+                            "answer": "8",
+                            "answer_info": "8"
+                        }
+                    ]
+                },
+                {
+                    "id": 586,
+                    "question_text": "How effective was the online delivery structure of this experience with helping you achieve your development goals?",
+                    "question_type": "Slider",
+                    "question_help": "",
+                    "order": 6,
+                    "required": true,
+                    "show_order": true,
+                    "empty_question_text": false,
+                    "has_option": false,
+                    "options": [],
+                    "is_table": false,
+                    "select_col_num": 0,
+                    "table_rows_range": [],
+                    "table_col_num": 0,
+                    "has_row_headers": false,
+                    "table_headers": [],
+                    "min_slider": 1,
+                    "max_slider": 6,
+                    "answers": [
+                        {
+                            "id": 2095,
+                            "answer": "8",
+                            "answer_info": "8"
+                        }
+                    ]
+                },
+                {
+                    "id": 587,
+                    "question_text": "What's the 1 aspect of this experience we should change or improve to support you as a manager?",
+                    "question_type": "Paragraph Input",
+                    "question_help": "",
+                    "order": 7,
+                    "required": false,
+                    "show_order": true,
+                    "empty_question_text": false,
+                    "has_option": false,
+                    "options": [],
+                    "is_table": false,
+                    "select_col_num": 0,
+                    "table_rows_range": [],
+                    "table_col_num": 0,
+                    "has_row_headers": false,
+                    "table_headers": [],
+                    "min_slider": 1,
+                    "max_slider": 100,
+                    "answers": [
+                        {
+                            "id": 2096,
+                            "answer": "test",
+                            "answer_info": "test"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "readonly": true,
+    "coach_csm_visiting": true,
+    "client_revisiting": false,
+    "client_has_material": false,
+    "client": {
+        "id": 235,
+        "name": "AkhilaRemeasurement1 RMTestLaggers1",
+        "company_name": "Pluma",
+        "user": 322,
+        "email": "akhila+remeasurement1@pluma.co"
+    }
+}

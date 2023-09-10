@@ -1,0 +1,34 @@
+{
+  "clients_chat_list": [
+    {
+      "id": 438,
+      "name": "Shraddha Yadav",
+      "recent_msg_date": "Jul 20, 2023",
+      "has_unread": null,
+      "unread_count": null,
+      "is_online": false
+    },
+    {
+      "id": 455,
+      "name": "Shraddha Yadav",
+      "recent_msg_date": "May 30, 2023",
+      "has_unread": null,
+      "unread_count": null,
+      "is_online": true
+    },
+    {
+      "id": 454,
+      "name": "Shraddha Yadav",
+      "recent_msg_date": "May 25, 2023",
+      "has_unread": true,
+      "unread_count": 1,
+      "is_online": false
+    }
+  ],
+  "coaching_guide_chat": {
+      "has_unread": true,
+      "unread_count": 218,
+      "recent_msg_date": "Jul 10, 2023",
+      "name": "Skillsoft Coaching Guide"
+  }
+}

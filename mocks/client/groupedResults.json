@@ -1,0 +1,804 @@
+{
+    "assessment_results": [
+        {
+            "answer": 51886,
+            "category_name": "Leading Others",
+            "skill_id": 42,
+            "answer_for_self": "80",
+            "skill_name": "Coaching",
+            "skill_description": "Understands how to coach different kinds of people to do their best work.",
+            "average_for_self": "85",
+            "average_for_360": 70.0,
+            "client_group_invite_manager_for_assessment_only": false,
+            "overall_average": 82,
+            "group_results": [
+                {
+                    "id": 1,
+                    "related_as": "Manager",
+                    "group_average": 75,
+                    "overall_average": 84,
+                    "comment": null
+                },
+                {
+                    "id": 2,
+                    "related_as": "Peer team member",
+                    "group_average": 67,
+                    "overall_average": 81,
+                    "comment": null
+                },
+                {
+                    "id": 3,
+                    "related_as": "Cross-functional colleague",
+                    "group_average": 70,
+                    "overall_average": 83,
+                    "comment": null
+                },
+                {
+                    "id": 4,
+                    "related_as": "Direct report",
+                    "group_average": 70,
+                    "overall_average": 81,
+                    "comment": null
+                }
+            ]
+        },
+        {
+            "answer": 51888,
+            "category_name": "Leading Others",
+            "skill_id": 43,
+            "answer_for_self": "85",
+            "skill_name": "Developing Employees",
+            "skill_description": "Prioritizes and appropriately tailors development of employees.",
+            "average_for_self": "85",
+            "average_for_360": 82.0,
+            "client_group_invite_manager_for_assessment_only": false,
+            "overall_average": 82,
+            "group_results": [
+                {
+                    "id": 1,
+                    "related_as": "Manager",
+                    "group_average": 85,
+                    "overall_average": 84,
+                    "comment": null
+                },
+                {
+                    "id": 2,
+                    "related_as": "Peer team member",
+                    "group_average": 82,
+                    "overall_average": 81,
+                    "comment": null
+                },
+                {
+                    "id": 3,
+                    "related_as": "Cross-functional colleague",
+                    "group_average": 80,
+                    "overall_average": 83,
+                    "comment": null
+                },
+                {
+                    "id": 4,
+                    "related_as": "Direct report",
+                    "group_average": 80,
+                    "overall_average": 81,
+                    "comment": null
+                }
+            ]
+        },
+        {
+            "answer": 51889,
+            "category_name": "Leading Others",
+            "skill_id": 44,
+            "answer_for_self": "85",
+            "skill_name": "Tolerating Conflict",
+            "skill_description": "Effective in an environment where conflicting views are being expressed",
+            "average_for_self": "85",
+            "average_for_360": 87.0,
+            "client_group_invite_manager_for_assessment_only": false,
+            "overall_average": 82,
+            "group_results": [
+                {
+                    "id": 1,
+                    "related_as": "Manager",
+                    "group_average": 90,
+                    "overall_average": 84,
+                    "comment": null
+                },
+                {
+                    "id": 2,
+                    "related_as": "Peer team member",
+                    "group_average": 87,
+                    "overall_average": 81,
+                    "comment": null
+                },
+                {
+                    "id": 3,
+                    "related_as": "Cross-functional colleague",
+                    "group_average": 85,
+                    "overall_average": 83,
+                    "comment": null
+                },
+                {
+                    "id": 4,
+                    "related_as": "Direct report",
+                    "group_average": 85,
+                    "overall_average": 81,
+                    "comment": null
+                }
+            ]
+        },
+        {
+            "answer": 51890,
+            "category_name": "Leading Others",
+            "skill_id": 45,
+            "answer_for_self": "85",
+            "skill_name": "Fostering Diversity",
+            "skill_description": "Fosters an environment of diversity and inclusivity.",
+            "average_for_self": "85",
+            "average_for_360": 88.0,
+            "client_group_invite_manager_for_assessment_only": false,
+            "overall_average": 82,
+            "group_results": [
+                {
+                    "id": 1,
+                    "related_as": "Manager",
+                    "group_average": 85,
+                    "overall_average": 84,
+                    "comment": null
+                },
+                {
+                    "id": 2,
+                    "related_as": "Peer team member",
+                    "group_average": 87,
+                    "overall_average": 81,
+                    "comment": null
+                },
+                {
+                    "id": 3,
+                    "related_as": "Cross-functional colleague",
+                    "group_average": 90,
+                    "overall_average": 83,
+                    "comment": null
+                },
+                {
+                    "id": 4,
+                    "related_as": "Direct report",
+                    "group_average": 90,
+                    "overall_average": 81,
+                    "comment": null
+                }
+            ]
+        },
+        {
+            "answer": 51891,
+            "category_name": "Leading Others",
+            "skill_id": 46,
+            "answer_for_self": "85",
+            "skill_name": "Giving Feedback",
+            "skill_description": "Gives feedback effectively and supportively.",
+            "average_for_self": "85",
+            "average_for_360": 85.0,
+            "client_group_invite_manager_for_assessment_only": false,
+            "overall_average": 82,
+            "group_results": [
+                {
+                    "id": 1,
+                    "related_as": "Manager",
+                    "group_average": 90,
+                    "overall_average": 84,
+                    "comment": null
+                },
+                {
+                    "id": 2,
+                    "related_as": "Peer team member",
+                    "group_average": 82,
+                    "overall_average": 81,
+                    "comment": null
+                },
+                {
+                    "id": 3,
+                    "related_as": "Cross-functional colleague",
+                    "group_average": 85,
+                    "overall_average": 83,
+                    "comment": null
+                },
+                {
+                    "id": 4,
+                    "related_as": "Direct report",
+                    "group_average": 85,
+                    "overall_average": 81,
+                    "comment": null
+                }
+            ]
+        },
+        {
+            "answer": 51892,
+            "category_name": "Leading Others",
+            "skill_id": 47,
+            "answer_for_self": "85",
+            "skill_name": "Collaborating Globally",
+            "skill_description": "Communicates with and aligns stakeholders across different cultures.",
+            "average_for_self": "85",
+            "average_for_360": 86.0,
+            "client_group_invite_manager_for_assessment_only": false,
+            "overall_average": 82,
+            "group_results": [
+                {
+                    "id": 1,
+                    "related_as": "Manager",
+                    "group_average": 85,
+                    "overall_average": 84,
+                    "comment": null
+                },
+                {
+                    "id": 2,
+                    "related_as": "Peer team member",
+                    "group_average": 87,
+                    "overall_average": 81,
+                    "comment": null
+                },
+                {
+                    "id": 3,
+                    "related_as": "Cross-functional colleague",
+                    "group_average": 90,
+                    "overall_average": 83,
+                    "comment": null
+                },
+                {
+                    "id": 4,
+                    "related_as": "Direct report",
+                    "group_average": 80,
+                    "overall_average": 81,
+                    "comment": null
+                }
+            ]
+        },
+        {
+            "answer": 51893,
+            "category_name": "Leading Others",
+            "skill_id": 48,
+            "answer_for_self": "85",
+            "skill_name": "Hiring",
+            "skill_description": "Defines job requirements and evaluates candidates appropriately.",
+            "average_for_self": "85",
+            "average_for_360": 83.0,
+            "client_group_invite_manager_for_assessment_only": false,
+            "overall_average": 82,
+            "group_results": [
+                {
+                    "id": 1,
+                    "related_as": "Manager",
+                    "group_average": 80,
+                    "overall_average": 84,
+                    "comment": null
+                },
+                {
+                    "id": 2,
+                    "related_as": "Peer team member",
+                    "group_average": 82,
+                    "overall_average": 81,
+                    "comment": null
+                },
+                {
+                    "id": 3,
+                    "related_as": "Cross-functional colleague",
+                    "group_average": 85,
+                    "overall_average": 83,
+                    "comment": null
+                },
+                {
+                    "id": 4,
+                    "related_as": "Direct report",
+                    "group_average": 85,
+                    "overall_average": 81,
+                    "comment": null
+                }
+            ]
+        },
+        {
+            "answer": 51894,
+            "category_name": "Leading Others",
+            "skill_id": 49,
+            "answer_for_self": "85",
+            "skill_name": "Motivating Others",
+            "skill_description": "Shows self-awareness and knows how to build trust and motivate others.",
+            "average_for_self": "85",
+            "average_for_360": 84.0,
+            "client_group_invite_manager_for_assessment_only": false,
+            "overall_average": 82,
+            "group_results": [
+                {
+                    "id": 1,
+                    "related_as": "Manager",
+                    "group_average": 85,
+                    "overall_average": 84,
+                    "comment": null
+                },
+                {
+                    "id": 2,
+                    "related_as": "Peer team member",
+                    "group_average": 85,
+                    "overall_average": 81,
+                    "comment": null
+                },
+                {
+                    "id": 3,
+                    "related_as": "Cross-functional colleague",
+                    "group_average": 90,
+                    "overall_average": 83,
+                    "comment": null
+                },
+                {
+                    "id": 4,
+                    "related_as": "Direct report",
+                    "group_average": 75,
+                    "overall_average": 81,
+                    "comment": null
+                }
+            ]
+        },
+        {
+            "answer": 51895,
+            "category_name": "Leading Others",
+            "skill_id": 50,
+            "answer_for_self": "90",
+            "skill_name": "Managing Up",
+            "skill_description": "Works well with managers and others in more senior roles.",
+            "average_for_self": "85",
+            "average_for_360": 81.0,
+            "client_group_invite_manager_for_assessment_only": false,
+            "overall_average": 82,
+            "group_results": [
+                {
+                    "id": 1,
+                    "related_as": "Manager",
+                    "group_average": 90,
+                    "overall_average": 84,
+                    "comment": null
+                },
+                {
+                    "id": 2,
+                    "related_as": "Peer team member",
+                    "group_average": 75,
+                    "overall_average": 81,
+                    "comment": null
+                },
+                {
+                    "id": 3,
+                    "related_as": "Cross-functional colleague",
+                    "group_average": 85,
+                    "overall_average": 83,
+                    "comment": null
+                },
+                {
+                    "id": 4,
+                    "related_as": "Direct report",
+                    "group_average": 80,
+                    "overall_average": 81,
+                    "comment": null
+                }
+            ]
+        },
+        {
+            "answer": 51896,
+            "category_name": "Leading Others",
+            "skill_id": 51,
+            "answer_for_self": "85",
+            "skill_name": "Managing Meetings",
+            "skill_description": "Conducts efficient and productive meetings.",
+            "average_for_self": "85",
+            "average_for_360": 80.0,
+            "client_group_invite_manager_for_assessment_only": false,
+            "overall_average": 82,
+            "group_results": [
+                {
+                    "id": 1,
+                    "related_as": "Manager",
+                    "group_average": 85,
+                    "overall_average": 84,
+                    "comment": null
+                },
+                {
+                    "id": 2,
+                    "related_as": "Peer team member",
+                    "group_average": 75,
+                    "overall_average": 81,
+                    "comment": null
+                },
+                {
+                    "id": 3,
+                    "related_as": "Cross-functional colleague",
+                    "group_average": 80,
+                    "overall_average": 83,
+                    "comment": null
+                },
+                {
+                    "id": 4,
+                    "related_as": "Direct report",
+                    "group_average": 85,
+                    "overall_average": 81,
+                    "comment": null
+                }
+            ]
+        },
+        {
+            "answer": 51897,
+            "category_name": "Leading Others",
+            "skill_id": 52,
+            "answer_for_self": "85",
+            "skill_name": "Assessing Performance",
+            "skill_description": "Effectively conducts performance appraisals and helps employees set and achieve goals.",
+            "average_for_self": "85",
+            "average_for_360": 83.0,
+            "client_group_invite_manager_for_assessment_only": false,
+            "overall_average": 82,
+            "group_results": [
+                {
+                    "id": 1,
+                    "related_as": "Peer team member",
+                    "group_average": 82,
+                    "overall_average": 81,
+                    "comment": null
+                },
+                {
+                    "id": 2,
+                    "related_as": "Cross-functional colleague",
+                    "group_average": 85,
+                    "overall_average": 83,
+                    "comment": null
+                },
+                {
+                    "id": 3,
+                    "related_as": "Direct report",
+                    "group_average": 85,
+                    "overall_average": 81,
+                    "comment": null
+                }
+            ]
+        },
+        {
+            "answer": 51898,
+            "category_name": "Leading Others",
+            "skill_id": 53,
+            "answer_for_self": "90",
+            "skill_name": "Influencing",
+            "skill_description": "Influences and persuades others, even without direct authority.",
+            "average_for_self": "85",
+            "average_for_360": 90.0,
+            "client_group_invite_manager_for_assessment_only": false,
+            "overall_average": 82,
+            "group_results": [
+                {
+                    "id": 1,
+                    "related_as": "Peer team member",
+                    "group_average": 90,
+                    "overall_average": 81,
+                    "comment": null
+                }
+            ]
+        },
+        {
+            "answer": 51899,
+            "category_name": "Leading Others",
+            "skill_id": 54,
+            "answer_for_self": "80",
+            "skill_name": "Supporting Employees",
+            "skill_description": "Gives employees opportunities for meaningful work within a supportive culture.",
+            "average_for_self": "85",
+            "average_for_360": 85.0,
+            "client_group_invite_manager_for_assessment_only": false,
+            "overall_average": 82,
+            "group_results": [
+                {
+                    "id": 1,
+                    "related_as": "Peer team member",
+                    "group_average": 85,
+                    "overall_average": 81,
+                    "comment": null
+                }
+            ]
+        },
+        {
+            "answer": 51900,
+            "category_name": "Leading Others",
+            "skill_id": 55,
+            "answer_for_self": "85",
+            "skill_name": "Team Creation",
+            "skill_description": "Builds effective teams and establishes accountability",
+            "average_for_self": "85",
+            "average_for_360": null,
+            "client_group_invite_manager_for_assessment_only": false,
+            "overall_average": 82,
+            "group_results": []
+        },
+        {
+            "answer": 51901,
+            "category_name": "Leading Others",
+            "skill_id": 56,
+            "answer_for_self": "90",
+            "skill_name": "Fostering Teams",
+            "skill_description": "Fosters trust, encourages collaboration and drives performance of team.",
+            "average_for_self": "85",
+            "average_for_360": null,
+            "client_group_invite_manager_for_assessment_only": false,
+            "overall_average": 82,
+            "group_results": []
+        },
+        {
+            "answer": 51887,
+            "category_name": "Leading Others",
+            "skill_id": 81,
+            "answer_for_self": "85",
+            "skill_name": "Delegating",
+            "skill_description": "Delegates appropriately and productively.",
+            "average_for_self": "85",
+            "average_for_360": 77.0,
+            "client_group_invite_manager_for_assessment_only": false,
+            "overall_average": 82,
+            "group_results": [
+                {
+                    "id": 1,
+                    "related_as": "Manager",
+                    "group_average": 80,
+                    "overall_average": 84,
+                    "comment": null
+                },
+                {
+                    "id": 2,
+                    "related_as": "Peer team member",
+                    "group_average": 77,
+                    "overall_average": 81,
+                    "comment": null
+                },
+                {
+                    "id": 3,
+                    "related_as": "Cross-functional colleague",
+                    "group_average": 75,
+                    "overall_average": 83,
+                    "comment": null
+                },
+                {
+                    "id": 4,
+                    "related_as": "Direct report",
+                    "group_average": 75,
+                    "overall_average": 81,
+                    "comment": null
+                }
+            ]
+        },
+        {
+            "answer": 51902,
+            "category_name": "Developing the Business",
+            "skill_id": 58,
+            "answer_for_self": "80",
+            "skill_name": "Building the Business Case",
+            "skill_description": "Defines, communicates and implements business opportunities effectively.",
+            "average_for_self": "85",
+            "average_for_360": null,
+            "client_group_invite_manager_for_assessment_only": false,
+            "overall_average": 82,
+            "group_results": []
+        },
+        {
+            "answer": 51903,
+            "category_name": "Developing the Business",
+            "skill_id": 60,
+            "answer_for_self": "85",
+            "skill_name": "Managing Change",
+            "skill_description": "Initiates and implements change when appropriate.",
+            "average_for_self": "85",
+            "average_for_360": null,
+            "client_group_invite_manager_for_assessment_only": false,
+            "overall_average": 82,
+            "group_results": []
+        },
+        {
+            "answer": 51904,
+            "category_name": "Developing the Business",
+            "skill_id": 62,
+            "answer_for_self": "80",
+            "skill_name": "Understanding the Customer",
+            "skill_description": "Understands customer needs and works to deliver value",
+            "average_for_self": "85",
+            "average_for_360": null,
+            "client_group_invite_manager_for_assessment_only": false,
+            "overall_average": 82,
+            "group_results": []
+        },
+        {
+            "answer": 51906,
+            "category_name": "Developing the Business",
+            "skill_id": 64,
+            "answer_for_self": "90",
+            "skill_name": "Setting Goals",
+            "skill_description": "Sets and accomplishes appropriate goals and milestones.",
+            "average_for_self": "85",
+            "average_for_360": null,
+            "client_group_invite_manager_for_assessment_only": false,
+            "overall_average": 82,
+            "group_results": []
+        },
+        {
+            "answer": 51907,
+            "category_name": "Developing the Business",
+            "skill_id": 65,
+            "answer_for_self": "80",
+            "skill_name": "Fostering Innovation",
+            "skill_description": "Fosters an environment to promote innovation and creativity.",
+            "average_for_self": "85",
+            "average_for_360": null,
+            "client_group_invite_manager_for_assessment_only": false,
+            "overall_average": 82,
+            "group_results": []
+        },
+        {
+            "answer": 51908,
+            "category_name": "Developing the Business",
+            "skill_id": 66,
+            "answer_for_self": "85",
+            "skill_name": "Implementing Innovation",
+            "skill_description": "Develops and implements innovative approaches and solutions.",
+            "average_for_self": "85",
+            "average_for_360": null,
+            "client_group_invite_manager_for_assessment_only": false,
+            "overall_average": 82,
+            "group_results": []
+        },
+        {
+            "answer": 51909,
+            "category_name": "Developing the Business",
+            "skill_id": 68,
+            "answer_for_self": "75",
+            "skill_name": "Negotiating",
+            "skill_description": "Negotiates effectively with variety of stakeholders.",
+            "average_for_self": "85",
+            "average_for_360": null,
+            "client_group_invite_manager_for_assessment_only": false,
+            "overall_average": 82,
+            "group_results": []
+        },
+        {
+            "answer": 51910,
+            "category_name": "Developing the Business",
+            "skill_id": 69,
+            "answer_for_self": "80",
+            "skill_name": "Measuring Performance",
+            "skill_description": "Develops appropriate metrics and systematically measures success of initiatives without bias.",
+            "average_for_self": "85",
+            "average_for_360": null,
+            "client_group_invite_manager_for_assessment_only": false,
+            "overall_average": 82,
+            "group_results": []
+        },
+        {
+            "answer": 51911,
+            "category_name": "Developing the Business",
+            "skill_id": 70,
+            "answer_for_self": "85",
+            "skill_name": "Improving Processes",
+            "skill_description": "Recognizes opportunities for improvement and acts to implement them.",
+            "average_for_self": "85",
+            "average_for_360": null,
+            "client_group_invite_manager_for_assessment_only": false,
+            "overall_average": 82,
+            "group_results": []
+        },
+        {
+            "answer": 51912,
+            "category_name": "Developing the Business",
+            "skill_id": 71,
+            "answer_for_self": "90",
+            "skill_name": "Managing Projects",
+            "skill_description": "Scopes, resources and manages projects effectively.",
+            "average_for_self": "85",
+            "average_for_360": null,
+            "client_group_invite_manager_for_assessment_only": false,
+            "overall_average": 82,
+            "group_results": []
+        },
+        {
+            "answer": 51914,
+            "category_name": "Developing the Business",
+            "skill_id": 72,
+            "answer_for_self": "90",
+            "skill_name": "Executing Strategies",
+            "skill_description": "Develops and executes plans that are in line with organizational strategy.",
+            "average_for_self": "85",
+            "average_for_360": null,
+            "client_group_invite_manager_for_assessment_only": false,
+            "overall_average": 82,
+            "group_results": []
+        },
+        {
+            "answer": 51905,
+            "category_name": "Developing the Business",
+            "skill_id": 77,
+            "answer_for_self": "85",
+            "skill_name": "Making Decisions",
+            "skill_description": "Able to make thoughtful decisions even in ambiguous situations.",
+            "average_for_self": "85",
+            "average_for_360": null,
+            "client_group_invite_manager_for_assessment_only": false,
+            "overall_average": 82,
+            "group_results": []
+        },
+        {
+            "answer": 51913,
+            "category_name": "Developing the Business",
+            "skill_id": 78,
+            "answer_for_self": "85",
+            "skill_name": "Thinking Strategically",
+            "skill_description": "Scopes, resources and manages projects effectively",
+            "average_for_self": "85",
+            "average_for_360": null,
+            "client_group_invite_manager_for_assessment_only": false,
+            "overall_average": 82,
+            "group_results": []
+        },
+        {
+            "answer": 51915,
+            "category_name": "Developing Yourself",
+            "skill_id": 73,
+            "answer_for_self": "90",
+            "skill_name": "Managing your Career",
+            "skill_description": "Work is aligned with career interests, values and skills.",
+            "average_for_self": "85",
+            "average_for_360": null,
+            "client_group_invite_manager_for_assessment_only": false,
+            "overall_average": 82,
+            "group_results": []
+        },
+        {
+            "answer": 51916,
+            "category_name": "Developing Yourself",
+            "skill_id": 74,
+            "answer_for_self": "85",
+            "skill_name": "Working with Integrity",
+            "skill_description": "Prioritizes ethics and fosters integrity in the workplace",
+            "average_for_self": "85",
+            "average_for_360": null,
+            "client_group_invite_manager_for_assessment_only": false,
+            "overall_average": 82,
+            "group_results": []
+        },
+        {
+            "answer": 51917,
+            "category_name": "Developing Yourself",
+            "skill_id": 75,
+            "answer_for_self": "90",
+            "skill_name": "Presenting Effectively",
+            "skill_description": "Presents ideas and plans in a clear and persuasive manner.",
+            "average_for_self": "85",
+            "average_for_360": null,
+            "client_group_invite_manager_for_assessment_only": false,
+            "overall_average": 82,
+            "group_results": []
+        },
+        {
+            "answer": 51918,
+            "category_name": "Developing Yourself",
+            "skill_id": 76,
+            "answer_for_self": "95",
+            "skill_name": "Managing Stress",
+            "skill_description": "Shows resilience under stress or pressure.",
+            "average_for_self": "85",
+            "average_for_360": null,
+            "client_group_invite_manager_for_assessment_only": false,
+            "overall_average": 82,
+            "group_results": []
+        },
+        {
+            "answer": 51919,
+            "category_name": "Developing Yourself",
+            "skill_id": 80,
+            "answer_for_self": "90",
+            "skill_name": "Writing Effectively",
+            "skill_description": "Writes in a clear and effective manner",
+            "average_for_self": "85",
+            "average_for_360": null,
+            "client_group_invite_manager_for_assessment_only": false,
+            "overall_average": 82,
+            "group_results": []
+        }
+    ],
+    "answered_360_message": null
+}

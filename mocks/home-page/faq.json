@@ -1,0 +1,61 @@
+{
+     "tileStack" : [
+        {
+            "title": "Getting Started with Clients",
+            "description":
+                "Overview of client pairing and notification, client information, building rapport, the introductory session, and finalizing next steps.",
+            "url": "faq/getting-started-with-clients"
+        },
+        {
+            "title": "Getting Started on Skillsoft Coaching",
+            "description":
+                "Outline of the key Skillsoft Coaching components to help your clients get the most out of coaching.",
+            "url": "faq/key-coaching-components"
+        },
+        {
+            "title": "Client View",
+            "description":
+                "The Skillsoft Coaching client dashboard is oriented around the 1:1 video sessions you will be doing together. Here you will find a brief video walkthrough of the client dashboard.",
+            "url": "faq/coach-faq-client-view"
+        },
+        {
+            "title": "Coach and Coaching Guide",
+            "description":
+                "Your Coach Guide (\"Chat with Coaching Guide\") is your live human resource and support system for all your coaching on Skillsoft Coaching. ",
+            "url": "faq/coach-faq-pluma-guide"
+        },
+        {
+            "title": "Deliverables and Terms of Service",
+            "description":
+                "For reference, these terms are also included in your Skillsoft Coach Consultant Agreement and Skillsoft Coach Non-disclosure and Development Agreement.",
+            "url": "faq/coach-faq-deliverables"
+        },
+        {
+            "title": "Skillsoft Coaching Leadership Assessment",
+            "description": "Example of Skillsoft Coaching's Leadership Assessment (SCLA) broken down by skill. ",
+            "url": "faq/coach-faq-pla"
+        },
+        {
+            "title": "Digital Coaching Tips",
+            "description":
+                "The following are best practices for bringing your coaching into the digital realm. ",
+            "url": "faq/coach-faq-digital-coaching-tips"
+        },
+        {
+            "title": "Conducting a Video Session",
+            "description":
+                "Guide to conducting your video sessions.   ",
+            "url": "faq/coach-faq-video-conferencing-apps"
+        },
+        {
+            "title": "Coach Billing and Payment, Referrals and Contract",
+            "description": "Details on coach billing, payments, referrals, and Skillsoft Coaching contract.  ",
+            "url": "faq/coach-faq-billing-and-payment"
+        },
+        {
+            "title": "Access to Percipio",
+            "description": "Skillsoft Coaches now have access to Percipio.",
+            "url": "faq/access-percipio"
+        }
+    ]
+}

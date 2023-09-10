@@ -1,0 +1,904 @@
+{
+    "is_self_only_results": false,
+    "self_result": null,
+    "result_360": [
+        {
+            "skill": {
+                "skillName": "Coaching",
+                "category": {
+                    "id": 6,
+                    "identifier": "Pluma",
+                    "categoryName": "Leading Others",
+                    "exercise": 2
+                },
+                "identifier": "Pluma",
+                "id": 42,
+                "description": "Understands how to coach different kinds of people to do their best work."
+            },
+            "answer_by_self": "80",
+            "average": 68,
+            "manager_answers": [
+                {
+                    "name": "Manager 1",
+                    "answer": "75",
+                    "comment": null
+                }
+            ],
+            "mapper_comments_for_skill": [],
+            "comment_by_self": "",
+            "manager_has_comments": false
+        },
+        {
+            "skill": {
+                "skillName": "Developing Employees",
+                "category": {
+                    "id": 6,
+                    "identifier": "Pluma",
+                    "categoryName": "Leading Others",
+                    "exercise": 2
+                },
+                "identifier": "Pluma",
+                "id": 43,
+                "description": "Prioritizes and appropriately tailors development of employees."
+            },
+            "answer_by_self": "85",
+            "average": 81,
+            "manager_answers": [
+                {
+                    "name": "Manager 1",
+                    "answer": "85",
+                    "comment": null
+                }
+            ],
+            "mapper_comments_for_skill": [],
+            "comment_by_self": "",
+            "manager_has_comments": false
+        },
+        {
+            "skill": {
+                "skillName": "Tolerating Conflict",
+                "category": {
+                    "id": 6,
+                    "identifier": "Pluma",
+                    "categoryName": "Leading Others",
+                    "exercise": 2
+                },
+                "identifier": "Pluma",
+                "id": 44,
+                "description": "Effective in an environment where conflicting views are being expressed"
+            },
+            "answer_by_self": "85",
+            "average": 86,
+            "manager_answers": [
+                {
+                    "name": "Manager 1",
+                    "answer": "90",
+                    "comment": null
+                }
+            ],
+            "mapper_comments_for_skill": [],
+            "comment_by_self": "",
+            "manager_has_comments": false
+        },
+        {
+            "skill": {
+                "skillName": "Fostering Diversity",
+                "category": {
+                    "id": 6,
+                    "identifier": "Pluma",
+                    "categoryName": "Leading Others",
+                    "exercise": 2
+                },
+                "identifier": "Pluma",
+                "id": 45,
+                "description": "Fosters an environment of diversity and inclusivity."
+            },
+            "answer_by_self": "85",
+            "average": 88,
+            "manager_answers": [
+                {
+                    "name": "Manager 1",
+                    "answer": "85",
+                    "comment": null
+                }
+            ],
+            "mapper_comments_for_skill": [],
+            "comment_by_self": "",
+            "manager_has_comments": false
+        },
+        {
+            "skill": {
+                "skillName": "Giving Feedback",
+                "category": {
+                    "id": 6,
+                    "identifier": "Pluma",
+                    "categoryName": "Leading Others",
+                    "exercise": 2
+                },
+                "identifier": "Pluma",
+                "id": 46,
+                "description": "Gives feedback effectively and supportively."
+            },
+            "answer_by_self": "85",
+            "average": 83,
+            "manager_answers": [
+                {
+                    "name": "Manager 1",
+                    "answer": "90",
+                    "comment": null
+                }
+            ],
+            "mapper_comments_for_skill": [],
+            "comment_by_self": "",
+            "manager_has_comments": false
+        },
+        {
+            "skill": {
+                "skillName": "Collaborating Globally",
+                "category": {
+                    "id": 6,
+                    "identifier": "Pluma",
+                    "categoryName": "Leading Others",
+                    "exercise": 2
+                },
+                "identifier": "Pluma",
+                "id": 47,
+                "description": "Communicates with and aligns stakeholders across different cultures."
+            },
+            "answer_by_self": "85",
+            "average": 86,
+            "manager_answers": [
+                {
+                    "name": "Manager 1",
+                    "answer": "85",
+                    "comment": null
+                }
+            ],
+            "mapper_comments_for_skill": [],
+            "comment_by_self": "",
+            "manager_has_comments": false
+        },
+        {
+            "skill": {
+                "skillName": "Hiring",
+                "category": {
+                    "id": 6,
+                    "identifier": "Pluma",
+                    "categoryName": "Leading Others",
+                    "exercise": 2
+                },
+                "identifier": "Pluma",
+                "id": 48,
+                "description": "Defines job requirements and evaluates candidates appropriately."
+            },
+            "answer_by_self": "85",
+            "average": 83,
+            "manager_answers": [
+                {
+                    "name": "Manager 1",
+                    "answer": "80",
+                    "comment": null
+                }
+            ],
+            "mapper_comments_for_skill": [],
+            "comment_by_self": "",
+            "manager_has_comments": false
+        },
+        {
+            "skill": {
+                "skillName": "Motivating Others",
+                "category": {
+                    "id": 6,
+                    "identifier": "Pluma",
+                    "categoryName": "Leading Others",
+                    "exercise": 2
+                },
+                "identifier": "Pluma",
+                "id": 49,
+                "description": "Shows self-awareness and knows how to build trust and motivate others."
+            },
+            "answer_by_self": "85",
+            "average": 83,
+            "manager_answers": [
+                {
+                    "name": "Manager 1",
+                    "answer": "85",
+                    "comment": null
+                }
+            ],
+            "mapper_comments_for_skill": [],
+            "comment_by_self": "",
+            "manager_has_comments": false
+        },
+        {
+            "skill": {
+                "skillName": "Managing Up",
+                "category": {
+                    "id": 6,
+                    "identifier": "Pluma",
+                    "categoryName": "Leading Others",
+                    "exercise": 2
+                },
+                "identifier": "Pluma",
+                "id": 50,
+                "description": "Works well with managers and others in more senior roles."
+            },
+            "answer_by_self": "90",
+            "average": 78,
+            "manager_answers": [
+                {
+                    "name": "Manager 1",
+                    "answer": "90",
+                    "comment": null
+                }
+            ],
+            "mapper_comments_for_skill": [],
+            "comment_by_self": "",
+            "manager_has_comments": false
+        },
+        {
+            "skill": {
+                "skillName": "Managing Meetings",
+                "category": {
+                    "id": 6,
+                    "identifier": "Pluma",
+                    "categoryName": "Leading Others",
+                    "exercise": 2
+                },
+                "identifier": "Pluma",
+                "id": 51,
+                "description": "Conducts efficient and productive meetings."
+            },
+            "answer_by_self": "85",
+            "average": 78,
+            "manager_answers": [
+                {
+                    "name": "Manager 1",
+                    "answer": "85",
+                    "comment": null
+                }
+            ],
+            "mapper_comments_for_skill": [],
+            "comment_by_self": "",
+            "manager_has_comments": false
+        },
+        {
+            "skill": {
+                "skillName": "Assessing Performance",
+                "category": {
+                    "id": 6,
+                    "identifier": "Pluma",
+                    "categoryName": "Leading Others",
+                    "exercise": 2
+                },
+                "identifier": "Pluma",
+                "id": 52,
+                "description": "Effectively conducts performance appraisals and helps employees set and achieve goals."
+            },
+            "answer_by_self": "85",
+            "average": 83,
+            "manager_answers": [
+                {
+                    "name": "Manager 1",
+                    "answer": "CANNOT ASSESS",
+                    "comment": null
+                }
+            ],
+            "mapper_comments_for_skill": [],
+            "comment_by_self": "",
+            "manager_has_comments": false
+        },
+        {
+            "skill": {
+                "skillName": "Influencing",
+                "category": {
+                    "id": 6,
+                    "identifier": "Pluma",
+                    "categoryName": "Leading Others",
+                    "exercise": 2
+                },
+                "identifier": "Pluma",
+                "id": 53,
+                "description": "Influences and persuades others, even without direct authority."
+            },
+            "answer_by_self": "90",
+            "average": 90,
+            "manager_answers": [
+                {
+                    "name": "Manager 1",
+                    "answer": "CANNOT ASSESS",
+                    "comment": null
+                }
+            ],
+            "mapper_comments_for_skill": [],
+            "comment_by_self": "",
+            "manager_has_comments": false
+        },
+        {
+            "skill": {
+                "skillName": "Supporting Employees",
+                "category": {
+                    "id": 6,
+                    "identifier": "Pluma",
+                    "categoryName": "Leading Others",
+                    "exercise": 2
+                },
+                "identifier": "Pluma",
+                "id": 54,
+                "description": "Gives employees opportunities for meaningful work within a supportive culture."
+            },
+            "answer_by_self": "80",
+            "average": 85,
+            "manager_answers": [
+                {
+                    "name": "Manager 1",
+                    "answer": "CANNOT ASSESS",
+                    "comment": null
+                }
+            ],
+            "mapper_comments_for_skill": [],
+            "comment_by_self": "",
+            "manager_has_comments": false
+        },
+        {
+            "skill": {
+                "skillName": "Team Creation",
+                "category": {
+                    "id": 6,
+                    "identifier": "Pluma",
+                    "categoryName": "Leading Others",
+                    "exercise": 2
+                },
+                "identifier": "Pluma",
+                "id": 55,
+                "description": "Builds effective teams and establishes accountability"
+            },
+            "answer_by_self": "85",
+            "average": null,
+            "manager_answers": [
+                {
+                    "name": "Manager 1",
+                    "answer": "CANNOT ASSESS",
+                    "comment": null
+                }
+            ],
+            "mapper_comments_for_skill": [],
+            "comment_by_self": "",
+            "manager_has_comments": false
+        },
+        {
+            "skill": {
+                "skillName": "Fostering Teams",
+                "category": {
+                    "id": 6,
+                    "identifier": "Pluma",
+                    "categoryName": "Leading Others",
+                    "exercise": 2
+                },
+                "identifier": "Pluma",
+                "id": 56,
+                "description": "Fosters trust, encourages collaboration and drives performance of team."
+            },
+            "answer_by_self": "90",
+            "average": null,
+            "manager_answers": [
+                {
+                    "name": "Manager 1",
+                    "answer": "CANNOT ASSESS",
+                    "comment": null
+                }
+            ],
+            "mapper_comments_for_skill": [],
+            "comment_by_self": "",
+            "manager_has_comments": false
+        },
+        {
+            "skill": {
+                "skillName": "Delegating",
+                "category": {
+                    "id": 6,
+                    "identifier": "Pluma",
+                    "categoryName": "Leading Others",
+                    "exercise": 2
+                },
+                "identifier": "Pluma",
+                "id": 81,
+                "description": "Delegates appropriately and productively."
+            },
+            "answer_by_self": "85",
+            "average": 76,
+            "manager_answers": [
+                {
+                    "name": "Manager 1",
+                    "answer": "80",
+                    "comment": null
+                }
+            ],
+            "mapper_comments_for_skill": [],
+            "comment_by_self": "",
+            "manager_has_comments": false
+        },
+        {
+            "skill": {
+                "skillName": "Building the Business Case",
+                "category": {
+                    "id": 7,
+                    "identifier": "Pluma",
+                    "categoryName": "Developing the Business",
+                    "exercise": 2
+                },
+                "identifier": "Pluma",
+                "id": 58,
+                "description": "Defines, communicates and implements business opportunities effectively."
+            },
+            "answer_by_self": "80",
+            "average": null,
+            "manager_answers": [
+                {
+                    "name": "Manager 1",
+                    "answer": "CANNOT ASSESS",
+                    "comment": null
+                }
+            ],
+            "mapper_comments_for_skill": [],
+            "comment_by_self": "",
+            "manager_has_comments": false
+        },
+        {
+            "skill": {
+                "skillName": "Managing Change",
+                "category": {
+                    "id": 7,
+                    "identifier": "Pluma",
+                    "categoryName": "Developing the Business",
+                    "exercise": 2
+                },
+                "identifier": "Pluma",
+                "id": 60,
+                "description": "Initiates and implements change when appropriate."
+            },
+            "answer_by_self": "85",
+            "average": null,
+            "manager_answers": [
+                {
+                    "name": "Manager 1",
+                    "answer": "CANNOT ASSESS",
+                    "comment": null
+                }
+            ],
+            "mapper_comments_for_skill": [],
+            "comment_by_self": "",
+            "manager_has_comments": false
+        },
+        {
+            "skill": {
+                "skillName": "Understanding the Customer",
+                "category": {
+                    "id": 7,
+                    "identifier": "Pluma",
+                    "categoryName": "Developing the Business",
+                    "exercise": 2
+                },
+                "identifier": "Pluma",
+                "id": 62,
+                "description": "Understands customer needs and works to deliver value"
+            },
+            "answer_by_self": "80",
+            "average": null,
+            "manager_answers": [
+                {
+                    "name": "Manager 1",
+                    "answer": "CANNOT ASSESS",
+                    "comment": null
+                }
+            ],
+            "mapper_comments_for_skill": [],
+            "comment_by_self": "",
+            "manager_has_comments": false
+        },
+        {
+            "skill": {
+                "skillName": "Setting Goals",
+                "category": {
+                    "id": 7,
+                    "identifier": "Pluma",
+                    "categoryName": "Developing the Business",
+                    "exercise": 2
+                },
+                "identifier": "Pluma",
+                "id": 64,
+                "description": "Sets and accomplishes appropriate goals and milestones."
+            },
+            "answer_by_self": "90",
+            "average": null,
+            "manager_answers": [
+                {
+                    "name": "Manager 1",
+                    "answer": "CANNOT ASSESS",
+                    "comment": null
+                }
+            ],
+            "mapper_comments_for_skill": [],
+            "comment_by_self": "",
+            "manager_has_comments": false
+        },
+        {
+            "skill": {
+                "skillName": "Fostering Innovation",
+                "category": {
+                    "id": 7,
+                    "identifier": "Pluma",
+                    "categoryName": "Developing the Business",
+                    "exercise": 2
+                },
+                "identifier": "Pluma",
+                "id": 65,
+                "description": "Fosters an environment to promote innovation and creativity."
+            },
+            "answer_by_self": "80",
+            "average": null,
+            "manager_answers": [
+                {
+                    "name": "Manager 1",
+                    "answer": "CANNOT ASSESS",
+                    "comment": null
+                }
+            ],
+            "mapper_comments_for_skill": [],
+            "comment_by_self": "",
+            "manager_has_comments": false
+        },
+        {
+            "skill": {
+                "skillName": "Implementing Innovation",
+                "category": {
+                    "id": 7,
+                    "identifier": "Pluma",
+                    "categoryName": "Developing the Business",
+                    "exercise": 2
+                },
+                "identifier": "Pluma",
+                "id": 66,
+                "description": "Develops and implements innovative approaches and solutions."
+            },
+            "answer_by_self": "85",
+            "average": null,
+            "manager_answers": [
+                {
+                    "name": "Manager 1",
+                    "answer": "CANNOT ASSESS",
+                    "comment": null
+                }
+            ],
+            "mapper_comments_for_skill": [],
+            "comment_by_self": "",
+            "manager_has_comments": false
+        },
+        {
+            "skill": {
+                "skillName": "Negotiating",
+                "category": {
+                    "id": 7,
+                    "identifier": "Pluma",
+                    "categoryName": "Developing the Business",
+                    "exercise": 2
+                },
+                "identifier": "Pluma",
+                "id": 68,
+                "description": "Negotiates effectively with variety of stakeholders."
+            },
+            "answer_by_self": "75",
+            "average": null,
+            "manager_answers": [
+                {
+                    "name": "Manager 1",
+                    "answer": "CANNOT ASSESS",
+                    "comment": null
+                }
+            ],
+            "mapper_comments_for_skill": [],
+            "comment_by_self": "",
+            "manager_has_comments": false
+        },
+        {
+            "skill": {
+                "skillName": "Measuring Performance",
+                "category": {
+                    "id": 7,
+                    "identifier": "Pluma",
+                    "categoryName": "Developing the Business",
+                    "exercise": 2
+                },
+                "identifier": "Pluma",
+                "id": 69,
+                "description": "Develops appropriate metrics and systematically measures success of initiatives without bias."
+            },
+            "answer_by_self": "80",
+            "average": null,
+            "manager_answers": [
+                {
+                    "name": "Manager 1",
+                    "answer": "CANNOT ASSESS",
+                    "comment": null
+                }
+            ],
+            "mapper_comments_for_skill": [],
+            "comment_by_self": "",
+            "manager_has_comments": false
+        },
+        {
+            "skill": {
+                "skillName": "Improving Processes",
+                "category": {
+                    "id": 7,
+                    "identifier": "Pluma",
+                    "categoryName": "Developing the Business",
+                    "exercise": 2
+                },
+                "identifier": "Pluma",
+                "id": 70,
+                "description": "Recognizes opportunities for improvement and acts to implement them."
+            },
+            "answer_by_self": "85",
+            "average": null,
+            "manager_answers": [
+                {
+                    "name": "Manager 1",
+                    "answer": "CANNOT ASSESS",
+                    "comment": null
+                }
+            ],
+            "mapper_comments_for_skill": [],
+            "comment_by_self": "",
+            "manager_has_comments": false
+        },
+        {
+            "skill": {
+                "skillName": "Managing Projects",
+                "category": {
+                    "id": 7,
+                    "identifier": "Pluma",
+                    "categoryName": "Developing the Business",
+                    "exercise": 2
+                },
+                "identifier": "Pluma",
+                "id": 71,
+                "description": "Scopes, resources and manages projects effectively."
+            },
+            "answer_by_self": "90",
+            "average": null,
+            "manager_answers": [
+                {
+                    "name": "Manager 1",
+                    "answer": "CANNOT ASSESS",
+                    "comment": null
+                }
+            ],
+            "mapper_comments_for_skill": [],
+            "comment_by_self": "",
+            "manager_has_comments": false
+        },
+        {
+            "skill": {
+                "skillName": "Executing Strategies",
+                "category": {
+                    "id": 7,
+                    "identifier": "Pluma",
+                    "categoryName": "Developing the Business",
+                    "exercise": 2
+                },
+                "identifier": "Pluma",
+                "id": 72,
+                "description": "Develops and executes plans that are in line with organizational strategy."
+            },
+            "answer_by_self": "90",
+            "average": null,
+            "manager_answers": [
+                {
+                    "name": "Manager 1",
+                    "answer": "CANNOT ASSESS",
+                    "comment": null
+                }
+            ],
+            "mapper_comments_for_skill": [],
+            "comment_by_self": "",
+            "manager_has_comments": false
+        },
+        {
+            "skill": {
+                "skillName": "Making Decisions",
+                "category": {
+                    "id": 7,
+                    "identifier": "Pluma",
+                    "categoryName": "Developing the Business",
+                    "exercise": 2
+                },
+                "identifier": "Pluma",
+                "id": 77,
+                "description": "Able to make thoughtful decisions even in ambiguous situations."
+            },
+            "answer_by_self": "85",
+            "average": null,
+            "manager_answers": [
+                {
+                    "name": "Manager 1",
+                    "answer": "CANNOT ASSESS",
+                    "comment": null
+                }
+            ],
+            "mapper_comments_for_skill": [],
+            "comment_by_self": "",
+            "manager_has_comments": false
+        },
+        {
+            "skill": {
+                "skillName": "Thinking Strategically",
+                "category": {
+                    "id": 7,
+                    "identifier": "Pluma",
+                    "categoryName": "Developing the Business",
+                    "exercise": 2
+                },
+                "identifier": "Pluma",
+                "id": 78,
+                "description": "Scopes, resources and manages projects effectively"
+            },
+            "answer_by_self": "85",
+            "average": null,
+            "manager_answers": [
+                {
+                    "name": "Manager 1",
+                    "answer": "CANNOT ASSESS",
+                    "comment": null
+                }
+            ],
+            "mapper_comments_for_skill": [],
+            "comment_by_self": "",
+            "manager_has_comments": false
+        },
+        {
+            "skill": {
+                "skillName": "Managing your Career",
+                "category": {
+                    "id": 8,
+                    "identifier": "Pluma",
+                    "categoryName": "Developing Yourself",
+                    "exercise": 2
+                },
+                "identifier": "Pluma",
+                "id": 73,
+                "description": "Work is aligned with career interests, values and skills."
+            },
+            "answer_by_self": "90",
+            "average": null,
+            "manager_answers": [
+                {
+                    "name": "Manager 1",
+                    "answer": "CANNOT ASSESS",
+                    "comment": null
+                }
+            ],
+            "mapper_comments_for_skill": [],
+            "comment_by_self": "",
+            "manager_has_comments": false
+        },
+        {
+            "skill": {
+                "skillName": "Working with Integrity",
+                "category": {
+                    "id": 8,
+                    "identifier": "Pluma",
+                    "categoryName": "Developing Yourself",
+                    "exercise": 2
+                },
+                "identifier": "Pluma",
+                "id": 74,
+                "description": "Prioritizes ethics and fosters integrity in the workplace"
+            },
+            "answer_by_self": "85",
+            "average": null,
+            "manager_answers": [
+                {
+                    "name": "Manager 1",
+                    "answer": "CANNOT ASSESS",
+                    "comment": null
+                }
+            ],
+            "mapper_comments_for_skill": [],
+            "comment_by_self": "",
+            "manager_has_comments": false
+        },
+        {
+            "skill": {
+                "skillName": "Presenting Effectively",
+                "category": {
+                    "id": 8,
+                    "identifier": "Pluma",
+                    "categoryName": "Developing Yourself",
+                    "exercise": 2
+                },
+                "identifier": "Pluma",
+                "id": 75,
+                "description": "Presents ideas and plans in a clear and persuasive manner."
+            },
+            "answer_by_self": "90",
+            "average": null,
+            "manager_answers": [
+                {
+                    "name": "Manager 1",
+                    "answer": "CANNOT ASSESS",
+                    "comment": null
+                }
+            ],
+            "mapper_comments_for_skill": [],
+            "comment_by_self": "",
+            "manager_has_comments": false
+        },
+        {
+            "skill": {
+                "skillName": "Managing Stress",
+                "category": {
+                    "id": 8,
+                    "identifier": "Pluma",
+                    "categoryName": "Developing Yourself",
+                    "exercise": 2
+                },
+                "identifier": "Pluma",
+                "id": 76,
+                "description": "Shows resilience under stress or pressure."
+            },
+            "answer_by_self": "95",
+            "average": null,
+            "manager_answers": [
+                {
+                    "name": "Manager 1",
+                    "answer": "CANNOT ASSESS",
+                    "comment": null
+                }
+            ],
+            "mapper_comments_for_skill": [],
+            "comment_by_self": "",
+            "manager_has_comments": false
+        },
+        {
+            "skill": {
+                "skillName": "Writing Effectively",
+                "category": {
+                    "id": 8,
+                    "identifier": "Pluma",
+                    "categoryName": "Developing Yourself",
+                    "exercise": 2
+                },
+                "identifier": "Pluma",
+                "id": 80,
+                "description": "Writes in a clear and effective manner"
+            },
+            "answer_by_self": "90",
+            "average": null,
+            "manager_answers": [
+                {
+                    "name": "Manager 1",
+                    "answer": "CANNOT ASSESS",
+                    "comment": null
+                }
+            ],
+            "mapper_comments_for_skill": [],
+            "comment_by_self": "",
+            "manager_has_comments": false
+        }
+    ],
+    "client": {
+        "id": 3737,
+        "name": "maruthiclapr25 maruthiclapr25",
+        "company_name": "Pluma",
+        "user": 4840,
+        "email": "maruthi+clapr25@pluma.co"
+    },
+    "client_group_coaching_without_360": false,
+    "client_group_separate_manager_result_in_assessment": true,
+    "client_group_invite_manager_for_assessment_only": false,
+    "client_group_show_guidance_on_scale": true,
+    "client_use_new_assessment_view": true,
+    "client_group_show_invitee_assessment_comments": true,
+    "for_client": false
+}

@@ -1,0 +1,167 @@
+{
+    "is_self_only_results": false,
+    "self_result": null,
+    "result_360": {
+        "top_3_skills": [
+            {
+                "id": 51898,
+                "delta": null,
+                "skill": {
+                    "category": {
+                        "id": 6,
+                        "exercise": 2,
+                        "categoryName": "Leading Others",
+                        "identifier": "Pluma"
+                    },
+                    "identifier": "Pluma",
+                    "description": "Influences and persuades others, even without direct authority.",
+                    "id": 53,
+                    "skillName": "Influencing"
+                },
+                "answer_for_self": "90",
+                "average_for_self": "85",
+                "comment_by_self": null,
+                "average_for_360": 90.0,
+                "average_for_all": 90.0,
+                "client": 3737
+            },
+            {
+                "id": 51890,
+                "delta": 3.0,
+                "skill": {
+                    "category": {
+                        "id": 6,
+                        "exercise": 2,
+                        "categoryName": "Leading Others",
+                        "identifier": "Pluma"
+                    },
+                    "identifier": "Pluma",
+                    "description": "Fosters an environment of diversity and inclusivity.",
+                    "id": 45,
+                    "skillName": "Fostering Diversity"
+                },
+                "answer_for_self": "85",
+                "average_for_self": "85",
+                "comment_by_self": null,
+                "average_for_360": 88.0,
+                "average_for_all": 87.0,
+                "client": 3737
+            },
+            {
+                "id": 51889,
+                "delta": 2.0,
+                "skill": {
+                    "category": {
+                        "id": 6,
+                        "exercise": 2,
+                        "categoryName": "Leading Others",
+                        "identifier": "Pluma"
+                    },
+                    "identifier": "Pluma",
+                    "description": "Effective in an environment where conflicting views are being expressed",
+                    "id": 44,
+                    "skillName": "Tolerating Conflict"
+                },
+                "answer_for_self": "85",
+                "average_for_self": "85",
+                "comment_by_self": null,
+                "average_for_360": 87.0,
+                "average_for_all": 86.0,
+                "client": 3737
+            }
+        ],
+        "bottom_3_skills": [
+            {
+                "id": 51886,
+                "delta": -10.0,
+                "skill": {
+                    "category": {
+                        "id": 6,
+                        "exercise": 2,
+                        "categoryName": "Leading Others",
+                        "identifier": "Pluma"
+                    },
+                    "identifier": "Pluma",
+                    "description": "Understands how to coach different kinds of people to do their best work.",
+                    "id": 42,
+                    "skillName": "Coaching"
+                },
+                "answer_for_self": "80",
+                "average_for_self": "85",
+                "comment_by_self": null,
+                "average_for_360": 70.0,
+                "average_for_all": 71.0,
+                "client": 3737
+            },
+            {
+                "id": 51887,
+                "delta": -8.0,
+                "skill": {
+                    "category": {
+                        "id": 6,
+                        "exercise": 2,
+                        "categoryName": "Leading Others",
+                        "identifier": "Pluma"
+                    },
+                    "identifier": "Pluma",
+                    "description": "Delegates appropriately and productively.",
+                    "id": 81,
+                    "skillName": "Delegating"
+                },
+                "answer_for_self": "85",
+                "average_for_self": "85",
+                "comment_by_self": null,
+                "average_for_360": 77.0,
+                "average_for_all": 78.0,
+                "client": 3737
+            },
+            {
+                "id": 51896,
+                "delta": -5.0,
+                "skill": {
+                    "category": {
+                        "id": 6,
+                        "exercise": 2,
+                        "categoryName": "Leading Others",
+                        "identifier": "Pluma"
+                    },
+                    "identifier": "Pluma",
+                    "description": "Conducts efficient and productive meetings.",
+                    "id": 51,
+                    "skillName": "Managing Meetings"
+                },
+                "answer_for_self": "85",
+                "average_for_self": "85",
+                "comment_by_self": null,
+                "average_for_360": 80.0,
+                "average_for_all": 80.0,
+                "client": 3737
+            }
+        ],
+        "show_skill_categories": true,
+        "top_skill_categories": [
+            {
+                "skill_category": {
+                    "id": 8,
+                    "exercise": 2,
+                    "categoryName": "Developing Yourself",
+                    "identifier": "Pluma"
+                },
+                "average": 90
+            }
+        ],
+        "bottom_skill_categories": [
+            {
+                "skill_category": {
+                    "id": 6,
+                    "exercise": 2,
+                    "categoryName": "Leading Others",
+                    "identifier": "Pluma"
+                },
+                "average": 83
+            }
+        ]
+    },
+    "client_group_coaching_without_360": false,
+    "client_group_invite_manager_for_assessment_only": false
+}

@@ -1,0 +1,94 @@
+{
+  "profileSettingItems": [
+    {
+      "display_name": "Complete your background check",
+      "identifier": "complete_your_background_check",
+      "is_completed": false
+    },
+    {
+      "display_name": "Get set up to receive payments",
+      "identifier": "get_set_up_to_receive_payments",
+      "is_completed": false
+    },
+    {
+      "display_name": "Complete your tax form",
+      "identifier": "complete_your_tax_form",
+      "is_completed": false
+    },
+    {
+      "display_name": "Upload your ICF Certification",
+      "identifier": "upload_your_icf_certification",
+      "is_completed": false
+    },
+    {
+      "display_name": "Add your educational background",
+      "identifier": "add_your_educational_background",
+      "is_completed": false
+    },
+    {
+      "display_name": "Add your geographical and language information",
+      "identifier": "add_your_geographical_and_language_information",
+      "is_completed": false
+    },
+    {
+      "display_name": "Connect your calendars",
+      "identifier": "connect_your_calendars",
+      "is_completed": false
+    },
+    {
+      "display_name": "Set your working hours",
+      "identifier": "set_your_working_hours",
+      "is_completed": true
+    },
+    {
+      "display_name": "Set the maximum number of clients you can coach",
+      "identifier": "set_the_maximum_number_of_clients_you_can_coach",
+      "is_completed": true
+    },
+    {
+      "display_name": "Upload your profile photo",
+      "identifier": "upload_your_profile_photo",
+      "is_completed": true
+    },
+    {
+      "display_name": "Select your coaching specialties",
+      "identifier": "select_your_coaching_specialties",
+      "is_completed": true
+    },
+    {
+      "display_name": "Select your areas of function/role experience",
+      "identifier": "select_your_areas_of_function_role_experience",
+      "is_completed": false
+    },
+    {
+      "display_name": "Select industries in which you have coaching experience",
+      "identifier": "select_industries_in_which_you_have_coaching_experience",
+      "is_completed": true
+    },
+    {
+      "display_name": "Select your areas of professional industry experience",
+      "identifier": "select_your_areas_of_professional_industry_experience",
+      "is_completed": false
+    },
+    {
+      "display_name": "Select the top management level's you've coached",
+      "identifier": "select_the_top_management_levels_youve_coached",
+      "is_completed": false
+    },
+    {
+      "display_name": "Add your previous coaching experience",
+      "identifier": "add_your_previous_coaching_experience",
+      "is_completed": false
+    },
+    {
+      "display_name": "Complete your Skillsoft Coaching Coach bio",
+      "identifier": "complete_your_skillsoft_coaching_coach_bio",
+      "is_completed": false
+    },
+    {
+      "display_name": "Test video settings",
+      "identifier": "test_video_settings",
+      "is_completed": false
+    }
+  ]
+}

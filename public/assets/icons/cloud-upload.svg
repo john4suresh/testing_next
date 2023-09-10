@@ -1,0 +1,18 @@
+<svg width="28" height="28" viewBox="0 0 28 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="cloudIcon" clip-path="url(#clip0_6302_292)">
+<path id="Shape" fill-rule="evenodd" clip-rule="evenodd" d="M22.575 11.7134C21.7817 7.68835 18.2467 4.66669 14 4.66669C10.6283 4.66669 7.7 6.58002 6.24167 9.38002C2.73 9.75335 0 12.7284 0 16.3334C0 20.195 3.13833 23.3334 7 23.3334H22.1667C25.3867 23.3334 28 20.72 28 17.5C28 14.42 25.6083 11.9234 22.575 11.7134ZM16.3333 15.1667V19.8334H11.6667V15.1667H8.16667L14 9.33335L19.8333 15.1667H16.3333Z" fill="#164794"/>
+<mask id="mask0_6302_292" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="4" width="28" height="20">
+<path id="Shape_2" fill-rule="evenodd" clip-rule="evenodd" d="M22.575 11.7134C21.7817 7.68835 18.2467 4.66669 14 4.66669C10.6283 4.66669 7.7 6.58002 6.24167 9.38002C2.73 9.75335 0 12.7284 0 16.3334C0 20.195 3.13833 23.3334 7 23.3334H22.1667C25.3867 23.3334 28 20.72 28 17.5C28 14.42 25.6083 11.9234 22.575 11.7134ZM16.3333 15.1667V19.8334H11.6667V15.1667H8.16667L14 9.33335L19.8333 15.1667H16.3333Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_6302_292)">
+<g id="Color">
+<path id="colorFill" fill-rule="evenodd" clip-rule="evenodd" d="M0 0H28V28H0V0Z" fill="#707070"/>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_6302_292">
+<rect width="28" height="28" fill="white"/>
+</clipPath>
+</defs>
+</svg>

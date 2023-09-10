@@ -1,0 +1,52 @@
+{
+  "results": [
+    {
+      "id": 1588,
+      "client_name": "Holly Kulkarni",
+      "session_number": 3,
+      "is_subscription_coaching": false,
+      "total_sessions": 6,
+      "has_session_notes": true,
+      "has_agenda": true,
+      "session_info": {
+        "time_slot": "Sunday, July 30, 2023 @ 10:41AM",
+        "user_timezone_shorthand": "IST",
+        "video_chat_url": "",
+        "is_session_within_24_hours": false,
+        "is_call_in_progress": false
+      }
+    },
+    {
+      "id": 1587,
+      "client_name": "Holly Kulkarni",
+      "session_number": 4,
+      "is_subscription_coaching": false,
+      "total_sessions": 6,
+      "has_session_notes": true,
+      "has_agenda": true,
+      "session_info": {
+        "time_slot": "Sunday, July 30, 2023 @ 10:41AM",
+        "user_timezone_shorthand": "IST",
+        "video_chat_url": "",
+        "is_session_within_24_hours": false,
+        "is_call_in_progress": false
+      }
+    },
+    {
+      "id": 1586,
+      "client_name": "Holly Kulkarni",
+      "session_number": 5,
+      "is_subscription_coaching": false,
+      "total_sessions": 6,
+      "has_session_notes": true,
+      "has_agenda": true,
+      "session_info": {
+        "time_slot": "Sunday, July 30, 2023 @ 10:41AM",
+        "user_timezone_shorthand": "IST",
+        "video_chat_url": "",
+        "is_session_within_24_hours": false,
+        "is_call_in_progress": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "results": [
+    {
+      "id": 3621,
+      "timeSent": "Friday, March 27th, 1:15 PM",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sapien libero egestas porttitor malesuada sagittis tristique.",
+      "sent_by_coach": true
+    },
+    {
+      "id": 3620,
+      "timeSent": "Friday, March 27th, 1:15 PM",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sapien libero egestas porttitor malesuada sagittis tristique.",
+      "sent_by_coach": false
+    },
+    {
+      "id": 3619,
+      "timeSent": "Friday, March 27th, 1:15 PM",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sapien libero egestas porttitor malesuada sagittis tristique.",
+      "sent_by_coach": true
+    },
+    {
+      "id": 3618,
+      "timeSent": "Friday, March 27th, 1:15 PM",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sapien libero egestas porttitor malesuada sagittis tristique.",
+      "sent_by_coach": false
+    },
+    {
+      "id": 3617,
+      "timeSent": "Friday, March 27th, 1:15 PM",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sapien libero egestas porttitor malesuada sagittis tristique.",
+      "sent_by_coach": true
+    }
+  ],
+  "default_sorting_column": null,
+  "total_count": 3,
+  "start_index": 1,
+  "end_index": 3,
+  "page_numbers": [1],
+  "page_links": [
+    [
+      "http://127.0.0.1:8000/api/v3/coach-dashboard/coach-client-messages/456/?page_size=3",
+      1,
+      true,
+      false
+    ]
+  ],
+  "curr_page": 1,
+  "export_columns": []
+}

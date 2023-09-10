@@ -1,0 +1,150 @@
+{
+    "blind_spots": [
+        {
+            "id": 51886,
+            "delta": -10.0,
+            "skill": {
+                "skillName": "Coaching",
+                "category": {
+                    "id": 6,
+                    "identifier": "Pluma",
+                    "categoryName": "Leading Others",
+                    "exercise": 2
+                },
+                "identifier": "Pluma",
+                "id": 42,
+                "description": "Understands how to coach different kinds of people to do their best work."
+            },
+            "answer_for_self": "80",
+            "average_for_self": "85",
+            "comment_by_self": null,
+            "average_for_360": 70.0,
+            "average_for_all": 71.0,
+            "client": 3737
+        },
+        {
+            "id": 51895,
+            "delta": -9.0,
+            "skill": {
+                "skillName": "Managing Up",
+                "category": {
+                    "id": 6,
+                    "identifier": "Pluma",
+                    "categoryName": "Leading Others",
+                    "exercise": 2
+                },
+                "identifier": "Pluma",
+                "id": 50,
+                "description": "Works well with managers and others in more senior roles."
+            },
+            "answer_for_self": "90",
+            "average_for_self": "85",
+            "comment_by_self": null,
+            "average_for_360": 81.0,
+            "average_for_all": 82.0,
+            "client": 3737
+        },
+        {
+            "id": 51887,
+            "delta": -8.0,
+            "skill": {
+                "skillName": "Delegating",
+                "category": {
+                    "id": 6,
+                    "identifier": "Pluma",
+                    "categoryName": "Leading Others",
+                    "exercise": 2
+                },
+                "identifier": "Pluma",
+                "id": 81,
+                "description": "Delegates appropriately and productively."
+            },
+            "answer_for_self": "85",
+            "average_for_self": "85",
+            "comment_by_self": null,
+            "average_for_360": 77.0,
+            "average_for_all": 78.0,
+            "client": 3737
+        }
+    ],
+    "unrecognized_strengths": [
+        {
+            "id": 51899,
+            "delta": 5.0,
+            "skill": {
+                "skillName": "Supporting Employees",
+                "category": {
+                    "id": 6,
+                    "identifier": "Pluma",
+                    "categoryName": "Leading Others",
+                    "exercise": 2
+                },
+                "identifier": "Pluma",
+                "id": 54,
+                "description": "Gives employees opportunities for meaningful work within a supportive culture."
+            },
+            "answer_for_self": "80",
+            "average_for_self": "85",
+            "comment_by_self": null,
+            "average_for_360": 85.0,
+            "average_for_all": 82.0,
+            "client": 3737
+        },
+        {
+            "id": 51890,
+            "delta": 3.0,
+            "skill": {
+                "skillName": "Fostering Diversity",
+                "category": {
+                    "id": 6,
+                    "identifier": "Pluma",
+                    "categoryName": "Leading Others",
+                    "exercise": 2
+                },
+                "identifier": "Pluma",
+                "id": 45,
+                "description": "Fosters an environment of diversity and inclusivity."
+            },
+            "answer_for_self": "85",
+            "average_for_self": "85",
+            "comment_by_self": null,
+            "average_for_360": 88.0,
+            "average_for_all": 87.0,
+            "client": 3737
+        },
+        {
+            "id": 51889,
+            "delta": 2.0,
+            "skill": {
+                "skillName": "Tolerating Conflict",
+                "category": {
+                    "id": 6,
+                    "identifier": "Pluma",
+                    "categoryName": "Leading Others",
+                    "exercise": 2
+                },
+                "identifier": "Pluma",
+                "id": 44,
+                "description": "Effective in an environment where conflicting views are being expressed"
+            },
+            "answer_for_self": "85",
+            "average_for_self": "85",
+            "comment_by_self": null,
+            "average_for_360": 87.0,
+            "average_for_all": 86.0,
+            "client": 3737
+        }
+    ],
+    "invited_count": 5,
+    "answered_count": 5,
+    "client": {
+        "id": 3737,
+        "name": "maruthiclapr25 maruthiclapr25",
+        "company_name": "Pluma",
+        "user": 4840,
+        "email": "maruthi+clapr25@pluma.co"
+    },
+    "client_group_invite_manager_for_assessment_only": false,
+    "remeasurement_open": true,
+    "minimum_answered": true
+}

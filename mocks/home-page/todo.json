@@ -1,0 +1,20 @@
+{
+    "todo": [
+        {
+            "title": "Complete your profile",
+            "description": "Complete your profile to get stated with clients",
+            "taskInfo": "Recommended to complete in the next 14 days",
+            "suggestedTime": "1-2 hours",
+            "taskSlug": "profile",
+            "status": "to_do"
+        },
+        {
+            "title": "Get paired with your first client",
+            "description": "You are now ready to be paired with a new client",
+            "taskInfo": "You will be notified when yo have a match",
+            "suggestedTime": "1-2 hours",
+            "taskSlug": "client_paired",
+            "status": "to_do"
+        }
+    ]
+}

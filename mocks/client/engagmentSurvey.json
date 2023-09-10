@@ -1,0 +1,26 @@
+[
+    {
+        "description": "I am clear on my responsibilities as a manager",
+        "pre_score": "08",
+        "post_score": "10",
+        "difference": "10%"
+    },
+    {
+        "description": "I know what I need to do in order to advance in my company",
+        "pre_score": "09",
+        "post_score": "06",
+        "difference": "24%"
+    },
+    {
+        "description": "I know what I need to do in order to advance in my company",
+        "pre_score": "07",
+        "post_score": "10",
+        "difference": "25%"
+    },
+    {
+        "description": "I am clear on my responsibilities as a manager",
+        "pre_score": "0",
+        "post_score": "0",
+        "difference": "0%"
+    }
+]

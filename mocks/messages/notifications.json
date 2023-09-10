@@ -1,0 +1,67 @@
+{
+    "results":[
+       {
+          "id":3614,
+          "name":"Shraddha Yadav",
+          "timeSent":"May 25, 2023",
+          "read_by_coach":false,
+          "text":"Shraddha  Yadav has finalized their Focus Areas and recommended content is now available.  Please View Suggested Materials and share resources with them or select Add New Resource to upload your own. ",
+          "is_online":false
+       },
+       {
+          "id":3613,
+          "name":"ShraddhaSCZL Yadav",
+          "timeSent":"May 23, 2023",
+          "read_by_coach":true,
+          "text":"ShraddhaSCZL  Yadav has finalized their Focus Areas and recommended content is now available.  Please View Suggested Materials and share resources with them or select Add New Resource to upload your own. ",
+          "is_online":false
+       }
+    ],
+    "default_sorting_column":null,
+    "total_count":37,
+    "start_index":1,
+    "end_index":2,
+    "page_numbers":[
+       1,
+       2,
+       3,
+       null,
+       19
+    ],
+    "page_links":[
+       [
+          "http://127.0.0.1:8000/api/v3/coach-dashboard/coach-clients-notification-list/?page_size=2&read_by_coach=&search=",
+          1,
+          true,
+          false
+       ],
+       [
+          "http://127.0.0.1:8000/api/v3/coach-dashboard/coach-clients-notification-list/?page=2&page_size=2&read_by_coach=&search=",
+          2,
+          false,
+          false
+       ],
+       [
+          "http://127.0.0.1:8000/api/v3/coach-dashboard/coach-clients-notification-list/?page=3&page_size=2&read_by_coach=&search=",
+          3,
+          false,
+          false
+       ],
+       [
+          null,
+          null,
+          false,
+          true
+       ],
+       [
+          "http://127.0.0.1:8000/api/v3/coach-dashboard/coach-clients-notification-list/?page=19&page_size=2&read_by_coach=&search=",
+          19,
+          false,
+          false
+       ]
+    ],
+    "curr_page":1,
+    "export_columns":[
+       
+    ]
+ }

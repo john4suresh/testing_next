@@ -1,0 +1,34 @@
+[
+    {
+        "display_name": "360° completed is required before coaching starts",
+        "is_checked": false
+    },
+    {
+        "display_name": "360° invites required to be started by client",
+        "is_checked": true
+    },
+    {
+        "display_name": "360° is optional",
+        "is_checked": false
+    },
+    {
+        "display_name": "No 360° feedback",
+        "is_checked": false
+    },
+    {
+        "display_name": "360° feedback from manager only",
+        "is_checked": true
+    },
+    {
+        "display_name": "Sees manager  360° results separately",
+        "is_checked": false
+    },
+    {
+        "display_name": "Can see 360° comments",
+        "is_checked": true
+    },
+    {
+        "display_name": "Has additional 360° questions",
+        "is_checked": true
+    }
+]

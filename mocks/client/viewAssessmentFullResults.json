@@ -1,0 +1,794 @@
+{
+    "assessment_results": {
+        "aggregated_results": [
+            {
+                "id": 51886,
+                "skill": {
+                    "identifier": "Pluma",
+                    "id": 42,
+                    "skillName": "Coaching",
+                    "category": {
+                        "identifier": "Pluma",
+                        "categoryName": "Leading Others",
+                        "exercise": 2,
+                        "id": 6
+                    },
+                    "description": "Understands how to coach different kinds of people to do their best work."
+                },
+                "answer_for_self": "80",
+                "average_for_self": "85",
+                "average_for_360": 70.0,
+                "average_for_all": 71.0,
+                "client_invitee_answers": [
+                    {
+                        "id": 147679,
+                        "related_as": "Cross-functional colleague 1",
+                        "answer": "70",
+                        "average_for_invitee": "83",
+                        "comment": null
+                    },
+                    {
+                        "id": 147611,
+                        "related_as": "Direct report 1",
+                        "answer": "70",
+                        "average_for_invitee": "81",
+                        "comment": null
+                    },
+                    {
+                        "id": 147577,
+                        "related_as": "Manager 1",
+                        "answer": "75",
+                        "average_for_invitee": "84",
+                        "comment": null
+                    },
+                    {
+                        "id": 147713,
+                        "related_as": "Peer team member 1",
+                        "answer": "70",
+                        "average_for_invitee": "80",
+                        "comment": null
+                    },
+                    {
+                        "id": 147645,
+                        "related_as": "Peer team member 2",
+                        "answer": "65",
+                        "average_for_invitee": "82",
+                        "comment": null
+                    }
+                ]
+            },
+            {
+                "id": 51888,
+                "skill": {
+                    "identifier": "Pluma",
+                    "id": 43,
+                    "skillName": "Developing Employees",
+                    "category": {
+                        "identifier": "Pluma",
+                        "categoryName": "Leading Others",
+                        "exercise": 2,
+                        "id": 6
+                    },
+                    "description": "Prioritizes and appropriately tailors development of employees."
+                },
+                "answer_for_self": "85",
+                "average_for_self": "85",
+                "average_for_360": 82.0,
+                "average_for_all": 82.0,
+                "client_invitee_answers": [
+                    {
+                        "id": 147681,
+                        "related_as": "Cross-functional colleague 1",
+                        "answer": "80",
+                        "average_for_invitee": "83",
+                        "comment": null
+                    },
+                    {
+                        "id": 147613,
+                        "related_as": "Direct report 1",
+                        "answer": "80",
+                        "average_for_invitee": "81",
+                        "comment": null
+                    },
+                    {
+                        "id": 147579,
+                        "related_as": "Manager 1",
+                        "answer": "85",
+                        "average_for_invitee": "84",
+                        "comment": null
+                    },
+                    {
+                        "id": 147715,
+                        "related_as": "Peer team member 1",
+                        "answer": "80",
+                        "average_for_invitee": "80",
+                        "comment": null
+                    },
+                    {
+                        "id": 147647,
+                        "related_as": "Peer team member 2",
+                        "answer": "85",
+                        "average_for_invitee": "82",
+                        "comment": null
+                    }
+                ]
+            },
+            {
+                "id": 51889,
+                "skill": {
+                    "identifier": "Pluma",
+                    "id": 44,
+                    "skillName": "Tolerating Conflict",
+                    "category": {
+                        "identifier": "Pluma",
+                        "categoryName": "Leading Others",
+                        "exercise": 2,
+                        "id": 6
+                    },
+                    "description": "Effective in an environment where conflicting views are being expressed"
+                },
+                "answer_for_self": "85",
+                "average_for_self": "85",
+                "average_for_360": 87.0,
+                "average_for_all": 86.0,
+                "client_invitee_answers": [
+                    {
+                        "id": 147682,
+                        "related_as": "Cross-functional colleague 1",
+                        "answer": "85",
+                        "average_for_invitee": "83",
+                        "comment": null
+                    },
+                    {
+                        "id": 147614,
+                        "related_as": "Direct report 1",
+                        "answer": "85",
+                        "average_for_invitee": "81",
+                        "comment": null
+                    },
+                    {
+                        "id": 147580,
+                        "related_as": "Manager 1",
+                        "answer": "90",
+                        "average_for_invitee": "84",
+                        "comment": null
+                    },
+                    {
+                        "id": 147716,
+                        "related_as": "Peer team member 1",
+                        "answer": "85",
+                        "average_for_invitee": "80",
+                        "comment": null
+                    },
+                    {
+                        "id": 147648,
+                        "related_as": "Peer team member 2",
+                        "answer": "90",
+                        "average_for_invitee": "82",
+                        "comment": null
+                    }
+                ]
+            },
+            {
+                "id": 51890,
+                "skill": {
+                    "identifier": "Pluma",
+                    "id": 45,
+                    "skillName": "Fostering Diversity",
+                    "category": {
+                        "identifier": "Pluma",
+                        "categoryName": "Leading Others",
+                        "exercise": 2,
+                        "id": 6
+                    },
+                    "description": "Fosters an environment of diversity and inclusivity."
+                },
+                "answer_for_self": "85",
+                "average_for_self": "85",
+                "average_for_360": 88.0,
+                "average_for_all": 87.0,
+                "client_invitee_answers": [
+                    {
+                        "id": 147683,
+                        "related_as": "Cross-functional colleague 1",
+                        "answer": "90",
+                        "average_for_invitee": "83",
+                        "comment": null
+                    },
+                    {
+                        "id": 147615,
+                        "related_as": "Direct report 1",
+                        "answer": "90",
+                        "average_for_invitee": "81",
+                        "comment": null
+                    },
+                    {
+                        "id": 147581,
+                        "related_as": "Manager 1",
+                        "answer": "85",
+                        "average_for_invitee": "84",
+                        "comment": null
+                    },
+                    {
+                        "id": 147717,
+                        "related_as": "Peer team member 1",
+                        "answer": "90",
+                        "average_for_invitee": "80",
+                        "comment": null
+                    },
+                    {
+                        "id": 147649,
+                        "related_as": "Peer team member 2",
+                        "answer": "85",
+                        "average_for_invitee": "82",
+                        "comment": null
+                    }
+                ]
+            },
+            {
+                "id": 51891,
+                "skill": {
+                    "identifier": "Pluma",
+                    "id": 46,
+                    "skillName": "Giving Feedback",
+                    "category": {
+                        "identifier": "Pluma",
+                        "categoryName": "Leading Others",
+                        "exercise": 2,
+                        "id": 6
+                    },
+                    "description": "Gives feedback effectively and supportively."
+                },
+                "answer_for_self": "85",
+                "average_for_self": "85",
+                "average_for_360": 85.0,
+                "average_for_all": 85.0,
+                "client_invitee_answers": [
+                    {
+                        "id": 147684,
+                        "related_as": "Cross-functional colleague 1",
+                        "answer": "85",
+                        "average_for_invitee": "83",
+                        "comment": null
+                    },
+                    {
+                        "id": 147616,
+                        "related_as": "Direct report 1",
+                        "answer": "85",
+                        "average_for_invitee": "81",
+                        "comment": null
+                    },
+                    {
+                        "id": 147582,
+                        "related_as": "Manager 1",
+                        "answer": "90",
+                        "average_for_invitee": "84",
+                        "comment": null
+                    },
+                    {
+                        "id": 147718,
+                        "related_as": "Peer team member 1",
+                        "answer": "85",
+                        "average_for_invitee": "80",
+                        "comment": null
+                    },
+                    {
+                        "id": 147650,
+                        "related_as": "Peer team member 2",
+                        "answer": "80",
+                        "average_for_invitee": "82",
+                        "comment": null
+                    }
+                ]
+            },
+            {
+                "id": 51892,
+                "skill": {
+                    "identifier": "Pluma",
+                    "id": 47,
+                    "skillName": "Collaborating Globally",
+                    "category": {
+                        "identifier": "Pluma",
+                        "categoryName": "Leading Others",
+                        "exercise": 2,
+                        "id": 6
+                    },
+                    "description": "Communicates with and aligns stakeholders across different cultures."
+                },
+                "answer_for_self": "85",
+                "average_for_self": "85",
+                "average_for_360": 86.0,
+                "average_for_all": 85.0,
+                "client_invitee_answers": [
+                    {
+                        "id": 147685,
+                        "related_as": "Cross-functional colleague 1",
+                        "answer": "90",
+                        "average_for_invitee": "83",
+                        "comment": null
+                    },
+                    {
+                        "id": 147617,
+                        "related_as": "Direct report 1",
+                        "answer": "80",
+                        "average_for_invitee": "81",
+                        "comment": null
+                    },
+                    {
+                        "id": 147583,
+                        "related_as": "Manager 1",
+                        "answer": "85",
+                        "average_for_invitee": "84",
+                        "comment": null
+                    },
+                    {
+                        "id": 147719,
+                        "related_as": "Peer team member 1",
+                        "answer": "90",
+                        "average_for_invitee": "80",
+                        "comment": null
+                    },
+                    {
+                        "id": 147651,
+                        "related_as": "Peer team member 2",
+                        "answer": "85",
+                        "average_for_invitee": "82",
+                        "comment": null
+                    }
+                ]
+            },
+            {
+                "id": 51893,
+                "skill": {
+                    "identifier": "Pluma",
+                    "id": 48,
+                    "skillName": "Hiring",
+                    "category": {
+                        "identifier": "Pluma",
+                        "categoryName": "Leading Others",
+                        "exercise": 2,
+                        "id": 6
+                    },
+                    "description": "Defines job requirements and evaluates candidates appropriately."
+                },
+                "answer_for_self": "85",
+                "average_for_self": "85",
+                "average_for_360": 83.0,
+                "average_for_all": 83.0,
+                "client_invitee_answers": [
+                    {
+                        "id": 147686,
+                        "related_as": "Cross-functional colleague 1",
+                        "answer": "85",
+                        "average_for_invitee": "83",
+                        "comment": null
+                    },
+                    {
+                        "id": 147618,
+                        "related_as": "Direct report 1",
+                        "answer": "85",
+                        "average_for_invitee": "81",
+                        "comment": null
+                    },
+                    {
+                        "id": 147584,
+                        "related_as": "Manager 1",
+                        "answer": "80",
+                        "average_for_invitee": "84",
+                        "comment": null
+                    },
+                    {
+                        "id": 147720,
+                        "related_as": "Peer team member 1",
+                        "answer": "85",
+                        "average_for_invitee": "80",
+                        "comment": null
+                    },
+                    {
+                        "id": 147652,
+                        "related_as": "Peer team member 2",
+                        "answer": "80",
+                        "average_for_invitee": "82",
+                        "comment": null
+                    }
+                ]
+            },
+            {
+                "id": 51894,
+                "skill": {
+                    "identifier": "Pluma",
+                    "id": 49,
+                    "skillName": "Motivating Others",
+                    "category": {
+                        "identifier": "Pluma",
+                        "categoryName": "Leading Others",
+                        "exercise": 2,
+                        "id": 6
+                    },
+                    "description": "Shows self-awareness and knows how to build trust and motivate others."
+                },
+                "answer_for_self": "85",
+                "average_for_self": "85",
+                "average_for_360": 84.0,
+                "average_for_all": 84.0,
+                "client_invitee_answers": [
+                    {
+                        "id": 147687,
+                        "related_as": "Cross-functional colleague 1",
+                        "answer": "90",
+                        "average_for_invitee": "83",
+                        "comment": null
+                    },
+                    {
+                        "id": 147619,
+                        "related_as": "Direct report 1",
+                        "answer": "75",
+                        "average_for_invitee": "81",
+                        "comment": null
+                    },
+                    {
+                        "id": 147585,
+                        "related_as": "Manager 1",
+                        "answer": "85",
+                        "average_for_invitee": "84",
+                        "comment": null
+                    },
+                    {
+                        "id": 147721,
+                        "related_as": "Peer team member 1",
+                        "answer": "80",
+                        "average_for_invitee": "80",
+                        "comment": null
+                    },
+                    {
+                        "id": 147653,
+                        "related_as": "Peer team member 2",
+                        "answer": "90",
+                        "average_for_invitee": "82",
+                        "comment": null
+                    }
+                ]
+            },
+            {
+                "id": 51895,
+                "skill": {
+                    "identifier": "Pluma",
+                    "id": 50,
+                    "skillName": "Managing Up",
+                    "category": {
+                        "identifier": "Pluma",
+                        "categoryName": "Leading Others",
+                        "exercise": 2,
+                        "id": 6
+                    },
+                    "description": "Works well with managers and others in more senior roles."
+                },
+                "answer_for_self": "90",
+                "average_for_self": "85",
+                "average_for_360": 81.0,
+                "average_for_all": 82.0,
+                "client_invitee_answers": [
+                    {
+                        "id": 147688,
+                        "related_as": "Cross-functional colleague 1",
+                        "answer": "85",
+                        "average_for_invitee": "83",
+                        "comment": null
+                    },
+                    {
+                        "id": 147620,
+                        "related_as": "Direct report 1",
+                        "answer": "80",
+                        "average_for_invitee": "81",
+                        "comment": null
+                    },
+                    {
+                        "id": 147586,
+                        "related_as": "Manager 1",
+                        "answer": "90",
+                        "average_for_invitee": "84",
+                        "comment": null
+                    },
+                    {
+                        "id": 147722,
+                        "related_as": "Peer team member 1",
+                        "answer": "75",
+                        "average_for_invitee": "80",
+                        "comment": null
+                    },
+                    {
+                        "id": 147654,
+                        "related_as": "Peer team member 2",
+                        "answer": "75",
+                        "average_for_invitee": "82",
+                        "comment": null
+                    }
+                ]
+            },
+            {
+                "id": 51896,
+                "skill": {
+                    "identifier": "Pluma",
+                    "id": 51,
+                    "skillName": "Managing Meetings",
+                    "category": {
+                        "identifier": "Pluma",
+                        "categoryName": "Leading Others",
+                        "exercise": 2,
+                        "id": 6
+                    },
+                    "description": "Conducts efficient and productive meetings."
+                },
+                "answer_for_self": "85",
+                "average_for_self": "85",
+                "average_for_360": 80.0,
+                "average_for_all": 80.0,
+                "client_invitee_answers": [
+                    {
+                        "id": 147689,
+                        "related_as": "Cross-functional colleague 1",
+                        "answer": "80",
+                        "average_for_invitee": "83",
+                        "comment": null
+                    },
+                    {
+                        "id": 147621,
+                        "related_as": "Direct report 1",
+                        "answer": "85",
+                        "average_for_invitee": "81",
+                        "comment": null
+                    },
+                    {
+                        "id": 147587,
+                        "related_as": "Manager 1",
+                        "answer": "85",
+                        "average_for_invitee": "84",
+                        "comment": null
+                    },
+                    {
+                        "id": 147723,
+                        "related_as": "Peer team member 1",
+                        "answer": "70",
+                        "average_for_invitee": "80",
+                        "comment": null
+                    },
+                    {
+                        "id": 147655,
+                        "related_as": "Peer team member 2",
+                        "answer": "80",
+                        "average_for_invitee": "82",
+                        "comment": null
+                    }
+                ]
+            },
+            {
+                "id": 51897,
+                "skill": {
+                    "identifier": "Pluma",
+                    "id": 52,
+                    "skillName": "Assessing Performance",
+                    "category": {
+                        "identifier": "Pluma",
+                        "categoryName": "Leading Others",
+                        "exercise": 2,
+                        "id": 6
+                    },
+                    "description": "Effectively conducts performance appraisals and helps employees set and achieve goals."
+                },
+                "answer_for_self": "85",
+                "average_for_self": "85",
+                "average_for_360": 83.0,
+                "average_for_all": 84.0,
+                "client_invitee_answers": [
+                    {
+                        "id": 147690,
+                        "related_as": "Cross-functional colleague 1",
+                        "answer": "85",
+                        "average_for_invitee": "83",
+                        "comment": null
+                    },
+                    {
+                        "id": 147622,
+                        "related_as": "Direct report 1",
+                        "answer": "85",
+                        "average_for_invitee": "81",
+                        "comment": null
+                    },
+                    {
+                        "id": 147588,
+                        "related_as": "Manager 1",
+                        "answer": "DID NOT ASSESS",
+                        "average_for_invitee": "84",
+                        "comment": null
+                    },
+                    {
+                        "id": 147724,
+                        "related_as": "Peer team member 1",
+                        "answer": "80",
+                        "average_for_invitee": "80",
+                        "comment": null
+                    },
+                    {
+                        "id": 147656,
+                        "related_as": "Peer team member 2",
+                        "answer": "85",
+                        "average_for_invitee": "82",
+                        "comment": null
+                    }
+                ]
+            },
+            {
+                "id": 51898,
+                "skill": {
+                    "identifier": "Pluma",
+                    "id": 53,
+                    "skillName": "Influencing",
+                    "category": {
+                        "identifier": "Pluma",
+                        "categoryName": "Leading Others",
+                        "exercise": 2,
+                        "id": 6
+                    },
+                    "description": "Influences and persuades others, even without direct authority."
+                },
+                "answer_for_self": "90",
+                "average_for_self": "85",
+                "average_for_360": 90.0,
+                "average_for_all": 90.0,
+                "client_invitee_answers": [
+                    {
+                        "id": 147691,
+                        "related_as": "Cross-functional colleague 1",
+                        "answer": "DID NOT ASSESS",
+                        "average_for_invitee": "83",
+                        "comment": null
+                    },
+                    {
+                        "id": 147623,
+                        "related_as": "Direct report 1",
+                        "answer": "DID NOT ASSESS",
+                        "average_for_invitee": "81",
+                        "comment": null
+                    },
+                    {
+                        "id": 147589,
+                        "related_as": "Manager 1",
+                        "answer": "DID NOT ASSESS",
+                        "average_for_invitee": "84",
+                        "comment": null
+                    },
+                    {
+                        "id": 147725,
+                        "related_as": "Peer team member 1",
+                        "answer": "DID NOT ASSESS",
+                        "average_for_invitee": "80",
+                        "comment": null
+                    },
+                    {
+                        "id": 147657,
+                        "related_as": "Peer team member 2",
+                        "answer": "90",
+                        "average_for_invitee": "82",
+                        "comment": null
+                    }
+                ]
+            },
+            {
+                "id": 51899,
+                "skill": {
+                    "identifier": "Pluma",
+                    "id": 54,
+                    "skillName": "Supporting Employees",
+                    "category": {
+                        "identifier": "Pluma",
+                        "categoryName": "Leading Others",
+                        "exercise": 2,
+                        "id": 6
+                    },
+                    "description": "Gives employees opportunities for meaningful work within a supportive culture."
+                },
+                "answer_for_self": "80",
+                "average_for_self": "85",
+                "average_for_360": 85.0,
+                "average_for_all": 82.0,
+                "client_invitee_answers": [
+                    {
+                        "id": 147692,
+                        "related_as": "Cross-functional colleague 1",
+                        "answer": "DID NOT ASSESS",
+                        "average_for_invitee": "83",
+                        "comment": null
+                    },
+                    {
+                        "id": 147624,
+                        "related_as": "Direct report 1",
+                        "answer": "DID NOT ASSESS",
+                        "average_for_invitee": "81",
+                        "comment": null
+                    },
+                    {
+                        "id": 147590,
+                        "related_as": "Manager 1",
+                        "answer": "DID NOT ASSESS",
+                        "average_for_invitee": "84",
+                        "comment": null
+                    },
+                    {
+                        "id": 147726,
+                        "related_as": "Peer team member 1",
+                        "answer": "DID NOT ASSESS",
+                        "average_for_invitee": "80",
+                        "comment": null
+                    },
+                    {
+                        "id": 147658,
+                        "related_as": "Peer team member 2",
+                        "answer": "85",
+                        "average_for_invitee": "82",
+                        "comment": null
+                    }
+                ]
+            },
+            {
+                "id": 51887,
+                "skill": {
+                    "identifier": "Pluma",
+                    "id": 81,
+                    "skillName": "Delegating",
+                    "category": {
+                        "identifier": "Pluma",
+                        "categoryName": "Leading Others",
+                        "exercise": 2,
+                        "id": 6
+                    },
+                    "description": "Delegates appropriately and productively."
+                },
+                "answer_for_self": "85",
+                "average_for_self": "85",
+                "average_for_360": 77.0,
+                "average_for_all": 78.0,
+                "client_invitee_answers": [
+                    {
+                        "id": 147680,
+                        "related_as": "Cross-functional colleague 1",
+                        "answer": "75",
+                        "average_for_invitee": "83",
+                        "comment": null
+                    },
+                    {
+                        "id": 147612,
+                        "related_as": "Direct report 1",
+                        "answer": "75",
+                        "average_for_invitee": "81",
+                        "comment": null
+                    },
+                    {
+                        "id": 147578,
+                        "related_as": "Manager 1",
+                        "answer": "80",
+                        "average_for_invitee": "84",
+                        "comment": null
+                    },
+                    {
+                        "id": 147714,
+                        "related_as": "Peer team member 1",
+                        "answer": "75",
+                        "average_for_invitee": "80",
+                        "comment": null
+                    },
+                    {
+                        "id": 147646,
+                        "related_as": "Peer team member 2",
+                        "answer": "80",
+                        "average_for_invitee": "82",
+                        "comment": null
+                    }
+                ]
+            }
+        ],
+        "client_group_show_guidance_on_scale": true,
+        "client_group_invite_manager_for_assessment_only": false,
+        "average_of_360_averages": 82,
+        "answered_360_message": null
+    }
+}

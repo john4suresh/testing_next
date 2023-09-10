@@ -1,0 +1,11 @@
+{
+  "assessment_tabs": [
+    { "key": "self_individual_360_result", "value": "Self and individual 360° results" },
+    { "key": "self_360_result_by_role", "value": "Self and 360° results by role" },
+    { "key": "client_view", "value": "Client view" },
+    { "key": "blindspots_hidden_strengths", "value": "Blindspots and Hidden Strengths" },
+    { "key": "high_low_ratings", "value": "High and Low Ratings" },
+    { "key": "comments_additional_feedback", "value": "Comments and additional feedback" },
+    { "key": "engagement_survey", "value": "Engagement Survey" }
+  ]
+}

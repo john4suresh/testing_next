@@ -1,0 +1,53 @@
+{
+    "ready_periods": [
+        {
+            "month": 3,
+            "year": 2017,
+            "formatted": "March, 2017",
+            "formatted_csv": "March 2017",
+            "start_of_month": "2017-03-01T00:00:00Z",
+            "total_owed": 251.6129032259032
+        },
+        {
+            "month": 5,
+            "year": 2018,
+            "formatted": "May, 2018",
+            "formatted_csv": "May 2018",
+            "start_of_month": "2018-05-01T00:00:00Z",
+            "total_owed": 805.6451612903226
+        },
+        {
+            "month": 6,
+            "year": 2018,
+            "formatted": "June, 2018",
+            "formatted_csv": "June 2018",
+            "start_of_month": "2018-06-01T00:00:00Z",
+            "total_owed": 819.6428571428571
+        },
+        {
+            "month": 7,
+            "year": 2018,
+            "formatted": "July, 2018",
+            "formatted_csv": "July 2018",
+            "start_of_month": "2018-07-01T00:00:00Z",
+            "total_owed": 798.3870967741935
+        },
+        {
+            "month": 8,
+            "year": 2018,
+            "formatted": "August, 2018",
+            "formatted_csv": "August 2018",
+            "start_of_month": "2018-08-01T00:00:00Z",
+            "total_owed": 225.0
+        },
+        {
+            "month": 5,
+            "year": 2021,
+            "formatted": "May, 2021",
+            "formatted_csv": "May 2021",
+            "start_of_month": "2021-05-01T00:00:00Z",
+            "total_owed": 5225.0
+        }
+    ],
+    "coach_id": 14
+}

@@ -1,0 +1,141 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+
+	h1,
+	.h1 {
+		font-size: 2.125rem;
+		font-style: normal;
+		font-weight: 700;
+		line-height: normal;
+		color: theme("colors.gray.veryDark");
+	}
+
+	h2,
+	.h2 {
+		font-size: 1.5rem;
+		font-style: normal;
+		font-weight: 400;
+		line-height: normal;
+		color: theme("colors.navy");
+	}
+
+	h3,
+	.h3 {
+		font-size: 1.25rem;
+		font-style: normal;
+		font-weight: 700;
+		line-height: normal;
+		color: theme("colors.gray.veryDark");
+	}
+
+	h4,
+	.h4 {
+		font-size: 1.125rem;
+		font-style: normal;
+		font-weight: 400;
+		line-height: normal;
+		color: theme("colors.gray.veryDark");
+	}
+
+	p.body, .body {
+		font-size: 1rem;
+		font-style: normal;
+		font-weight: 400;
+		line-height: 1.375;
+		color: theme("colors.gray.veryDark");
+	}
+
+	p.caption, .caption {
+		font-size: 0.875rem;
+		font-style: normal;
+		font-weight: 400;
+		line-height: normal;
+		color: theme("colors.gray.dark");
+	}
+}
+
+@layer utilities {
+	.bg-green-light {
+		background-color: theme("colors.green.light");
+	}
+
+	.link {
+		color: theme("colors.blue.light");
+		font-size: 1rem;
+		font-style: normal;
+		font-weight: 600;
+		line-height: 1;
+	}
+
+	.menu-box-shadow {
+		box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+	}
+
+	.drawer-transition {
+		transition-timing-function: cubic-bezier(0.4, 0, 0.6, 1);
+	}
+
+	.input-field input:not(:placeholder-shown) + label {
+		padding: 0 4px;
+		line-height: 1;
+		font-size: 0.875rem;
+		transform: translate(-4.8px, -24px);
+		background-color: theme("colors.white");
+	}
+
+	.input-field input:not(:placeholder-shown):required + label::after {
+		content: "*";
+		padding-left: 2px;
+	}
+
+	.input-field:focus-within input:required + label::after {
+		content: "*";
+		padding-left: 2px;
+	}
+	
+  .login-page {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    min-height: 100vh;
+    background: url("../public/images/loginBG.jpg") no-repeat fixed center/cover;
+    display: flex;
+    justify-content: flex-end;
+  }
+
+  .wrapper {
+    width: 400px;
+    max-width: 400px;
+    margin: 3.5rem;
+    border-radius: 8px;
+    background-color: #ffffff;
+    padding: 2.75rem 2.75rem 1rem 2.5rem;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+}
+
+select {
+	/* background-image: url('/assets/icons/dropdownArrow.svg'); */
+	background-position: right 0.5rem center;
+	background-repeat: no-repeat;
+	background-size: 1.5em 1.5em;
+	padding-right: 2.5rem;
+	appearance: none;
+}
+
+/* TODO: use tailwind class */
+.styled-border {
+	border-top: 1px dashed #D6D9DA;
+	border-bottom: 1px solid #D6D9DA;
+}
+/* ! TODO: use tailwind class */
+.custom-message-chat-list {
+	min-height: calc(100vh - 82px - 180px - 70px - 144px - 100px);
+	max-height: calc(100vh - 82px - 180px - 70px - 144px - 100px);
+}
